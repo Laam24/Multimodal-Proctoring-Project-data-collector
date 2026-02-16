@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs and databases
+*.log
+*.csv
+*.db
+
+# Task files (if you don't want to upload the large .task files)
+*.task
+
+# Dataset folders (if you don't want to upload raw data)
+Dataset_Raw/
+Dataset_Structured/
