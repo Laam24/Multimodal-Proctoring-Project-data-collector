@@ -10,7 +10,7 @@ This repository contains the data collection module for a multimodal proctoring 
 - Webcam and window interaction tests
 
 ## Repository Structure
-
+```plain
 ├── Dataset_Raw/               # Raw collected data (ignored by git)
 ├── Dataset_Structured/         # Processed dataset (ignored by git)
 ├── data_collector.py           # Main data collection script
@@ -26,7 +26,7 @@ This repository contains the data collection module for a multimodal proctoring 
 ├── requirements.txt            # Python dependencies
 ├── .gitignore                  # Files/folders ignored by git
 └── README.md                   # This file
-
+```
 
 ## Prerequisites
 - Python 3.8 or higher
