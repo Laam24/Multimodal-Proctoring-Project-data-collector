@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Workspace Camera</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; background-color: #222; color: white; padding-top: 20px;}
+        #video { transform: scaleX(-1); border: 4px solid #555; border-radius: 10px; max-width: 90%; }
+        #status { font-size: 1.5em; margin: 20px; font-weight: bold; }
+        .recording { background-color: #d32f2f; color: white; padding: 10px; border-radius: 5px; }
+        .finished { background-color: #388e3c; color: white; padding: 10px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h2>Workspace Camera</h2>
+    <video id="video" width="640" height="480" autoplay playsinline></video>
+    <div id="status">Requesting camera access...</div>
+
+    <script>
+        const video = document.getElementById('video');
+        const statusEl = document.getElementById('status');
+        let stream;
+        let isSending = false;
+        let sendInterval = null;
+        let frameCounter = 0; // Our diagnostic counter
+
+        async function setupCamera() {
+            try {
+                const constraints = { video: { facingMode: 'environment', width: { ideal: 480 }, height: { ideal: 360 } } };
+                stream = await navigator.mediaDevices.getUserMedia(constraints);
+                video.srcObject = stream;
+                statusEl.textContent = 'Ready. Waiting for Desktop App...';
+            } catch (err) {
+                try {
+                    stream = await navigator.mediaDevices.getUserMedia({ video: true });
+                    video.srcObject = stream;
+                    statusEl.textContent = 'Ready. Waiting for Desktop App...';
+                } catch (fallbackErr) {
+                    statusEl.textContent = 'ERROR: Camera access denied.';
+                    console.error("Camera Error: ", fallbackErr);
+                }
+            }
+        }
+
+        function sendFrame() {
+            if (!isSending) return;
+            
+            frameCounter++; // Count the frame
+            statusEl.textContent = 'RECORDING (Frames Sent: ' + frameCounter + ')';
+
+            const canvas = document.createElement('canvas');
+            canvas.width = video.videoWidth; 
+            canvas.height = video.videoHeight;
+            canvas.getContext('2d').drawImage(video, 0, 0, canvas.width, canvas.height);
+            
+            fetch('/upload_frame', {
+                method: 'POST',
+                headers: { 
+                    'Content-Type': 'application/json',
+                    'ngrok-skip-browser-warning': 'true' 
+                },
+                body: JSON.stringify({ image: canvas.toDataURL('image/jpeg', 0.4) })
+            }).catch(e => console.error('Upload Error:', e));
+        }
+
+        function startSending() {
+            if (isSending) return;
+            isSending = true;
+            frameCounter = 0;
+            statusEl.className = 'recording';
+            
+            if (sendInterval) clearInterval(sendInterval);
+            sendInterval = setInterval(sendFrame, 200); // Send 5 frames per second
+        }
+        
+        function stopSending() {
+            if (!isSending) return;
+            isSending = false;
+            
+            if (sendInterval) clearInterval(sendInterval);
+            sendInterval = null;
+            
+            statusEl.textContent = 'EXAM FINISHED (Total frames sent: ' + frameCounter + ').';
+            statusEl.className = 'finished';
+            
+            if (stream) stream.getTracks().forEach(track => track.stop());
+        }
+
+        // Check server status every second
+        setInterval(async () => {
+            try {
+                const cb = new Date().getTime();
+                const res = await fetch('/status?t=' + cb, { 
+                    headers: { 'ngrok-skip-browser-warning': 'true' } 
+                });
+                const data = await res.json();
+                
+                if (data.is_recording && !isSending) {
+                    startSending();
+                } else if (!data.is_recording && isSending) {
+                    stopSending();
+                }
+            } catch (e) {
+                if(isSending) stopSending();
+            }
+        }, 1000);
+
+        // Initialize the camera
+        setupCamera();
+    </script>
+</body>
+</html>
