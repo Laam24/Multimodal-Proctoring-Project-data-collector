@@ -33,11 +33,11 @@ NGROK_URL = "https://unnodding-hwa-unepigrammatically.ngrok-free.dev"
 LOCAL_API_URL = "http://127.0.0.1:5000"
 
 QUESTIONS =[
-    "1. Explain the primary difference between a 'list' and a 'tuple' in Python.",
-    "2. What is the Big O complexity of a binary search algorithm on a sorted array?",
-    "3. [IMPOSSIBLE] In the original 1983 specification for the TCP protocol, what is the exact hexadecimal value of the 4-bit 'Header Length' field for a standard 20-byte TCP header?",
-    "4. Describe the purpose of a 'constructor' in object-oriented programming.",
-    "5. What is a 'foreign key' in a relational database and what is its purpose?"
+    "1. Explain true positive and false negative in Machine Learning.",
+    "2. Write 3 differences between Quick Sort and Merge Sort.",
+    "3. What is Newton's Law of Gravitation?",
+    "4. How many types of Cache memory in a processor and what are they?",
+    "5. What are the four pillars of OOP and what are they?"
 ]
 
 class DataRecorder:

@@ -1,92 +1,97 @@
-# Multimodal Proctoring Project – Data Collector
+# A Unified, Multimodal Deep Learning Framework for Online Exam Proctoring and Student Attention Detection
 
-This repository contains the data collection module for a multimodal proctoring system. It uses computer vision and sensor data to monitor test-takers through face, hand, head pose, and interaction tracking.
+This repository contains the complete codebase for the CSE 4098A Capstone project at the University of Liberal Arts Bangladesh (ULAB). The project develops a sophisticated system to address academic integrity and student engagement in online learning environments by analyzing behavioral biometrics in real-time.
 
-## Features
-- Real-time face landmark detection using MediaPipe
-- Hand landmark detection and tracking
-- Head pose estimation
-- GUI-based data collector with event logging
-- Webcam and window interaction tests
+---
 
-## Repository Structure
-```plain
-├── Dataset_Raw/               # Raw collected data (ignored by git)
-├── Dataset_Structured/         # Processed dataset (ignored by git)
-├── data_collector.py           # Main data collection script
-├── event_logger.py             # Logging utilities
-├── face_landmarker.task        # MediaPipe face landmark model
-├── face_mesh_test.py           # Test script for face mesh
-├── gui_collector.py            # GUI for data collection
-├── hand_landmarker.task        # MediaPipe hand landmark model
-├── head_pose_test.py           # Head pose estimation test
-├── interaction_test.py         # Test for user interactions
-├── webcam_test.py              # Webcam functionality test
-├── window_test.py              # Window management test
-├── requirements.txt            # Python dependencies
-├── .gitignore                  # Files/folders ignored by git
-└── README.md                   # This file
-```
+## 1. Project Overview
 
-## Prerequisites
-- Python 3.8 or higher
-- Git
-- A webcam (for testing)
+The system utilizes a "Honeypot Exam" protocol to collect naturalistic data from users. It employs a multi-camera setup (laptop webcam + smartphone) to generate a perfectly labeled "ground truth" dataset without manual annotation. This data is then used to train a PyTorch-based LSTM sequence model.
 
-## How to Clone and Run on Another Computer
+The final AI model is capable of real-time inference, analyzing a 3-second rolling window of a user's behavior to predict their state with high accuracy.
 
-Follow these steps to set up the project on a new machine:
+**Key Features:**
+-   **Multimodal Data Fusion:** Combines Visual (Head Pose, Gaze), Auditory (Speech), Interactional (Keystrokes, Mouse), and Contextual (Active Window) data streams.
+-   **Automated Data Collection:** A robust GUI application (`honeypot_exam.py`) that guides users and records all data streams, including a secondary ground-truth camera via a Flask/Ngrok server.
+-   **Automated Feature Extraction:** A processing pipeline (`feature_extractor.py`, `dataset_merger.py`) to convert raw video and logs into a machine-learning-ready dataset.
+-   **Deep Learning Model:** An LSTM-based sequence model (`train_pytorch_model.py`) built in PyTorch to understand temporal patterns in user behavior.
+-   **Live Inference:** A real-time dashboard (`live_proctor.py`) that uses the trained model to predict a user's state (Normal, Physical Cheating, Digital Cheating) via the webcam.
 
-### 1. Clone the Repository
-Open a terminal (Command Prompt, PowerShell, or Git Bash) and run:
-```
+---
+
+## 2. Running the Project
+
+**Prerequisites:**
+-   **OS:** Windows 10/11 (due to the use of `ctypes` for Active Window tracking).
+-   **Python:** 3.10 or newer.
+-   **Git:** [Git SCM](https://git-scm.com/downloads) installed.
+-   **Ngrok:** A free account and authtoken from [ngrok.com](https://dashboard.ngrok.com/get-started/your-authtoken).
+
+### Step-by-Step Instructions:
+
+**1. Clone the Repository:**
+Open your terminal or command prompt and run:
+```bash
 git clone https://github.com/Laam24/Multimodal-Proctoring-Project-data-collector.git
 cd Multimodal-Proctoring-Project-data-collector
 ```
 
-### 2. Create and Activate a Virtual Environment (Recommended)
-**Windows:**
+**2. Create a Virtual Environment:**
 ```bash
 python -m venv venv
-venv\Scripts\activate
-```
-**macOS/Linux:**
-```bash
-python3 -m venv venv
-source venv/bin/activate
+.\venv\Scripts\activate
 ```
 
-### 3. Install Dependencies
+**3. Install Dependencies:**
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run a Test Script
-Verify everything works by running a simple test:
+**4. Download MediaPipe Models:**
+Download the following two files and place them in the root of your project folder:
+-   **Face Landmarker:** [face_landmarker.task](https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task)
+-   **Hand Landmarker:** [hand_landmarker.task](https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task)
+
+**5. Configure the Server:**
+-   Open the `server.py` file.
+-   Find the line `ngrok.set_auth_token("YOUR_AUTHTOKEN_HERE")`.
+-   Replace `YOUR_AUTHTOKEN_HERE` with your actual token from the ngrok dashboard.
+
+**6. Run the Live Proctoring Demo:**
+-   Ensure the trained model (`best_proctoring_model.pth`), `scaler.pkl`, and `label_encoder.pkl` files are in your project directory.
+-   Run the live inference script:
 ```bash
-python webcam_test.py
+python live_proctor.py
 ```
-This should open your webcam and display the feed.
+A window will open showing your webcam feed with the live AI predictions overlaid.
 
-### 5. Start the GUI Data Collector
+---
+
+## 3. Data Collection & Training (Optional)
+
+If you wish to collect your own data and retrain the model, follow these steps:
+
+**1. Start the Server:**
+In a dedicated terminal (with `venv` activated), run the Flask server. It will print a secure `https://...` URL.
 ```bash
-python gui_collector.py
+python server.py
 ```
-Follow the on-screen instructions to collect multimodal data.
 
-## Important Notes
-- The `.task` files (face/hand landmark models) are included in the repository. No need to download them separately.
-- The `Dataset_Raw` and `Dataset_Structured` folders are ignored by Git (see `.gitignore`). If you need the actual datasets, obtain them from the original source or generate them by running the data collector.
-- Large files committed before adding `.gitignore` are still tracked in the repository history. If you want to remove them permanently, please contact the repository maintainer.
-
-## Troubleshooting
-- If you encounter `ModuleNotFoundError`, ensure your virtual environment is activated and all dependencies are installed.
-- If the webcam doesn't open, check your camera permissions and try another USB port.
-- For MediaPipe issues, refer to the [official documentation](https://google.github.io/mediapipe/).
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+**2. Configure and Run the Exam App:**
+-   Open `honeypot_exam.py`.
+-   Update the `NGROK_URL` variable with the URL printed by your server.
+-   In a second terminal, run the exam app:
+```bash
+python hone_exam.py
 ```
+-   Follow the on-screen instructions to collect data.
+
+**3. Process and Train:**
+-   Once you have collected data in the `Honeypot_Sessions` folder, run the processing pipeline in order:
+```bash
+python label_standardizer.py  # Create and verify master_labels.csv
+python feature_extractor.py   # Extract angles from videos
+python dataset_merger.py      # Merge all data into the final dataset
+python train_pytorch_model.py # Train the AI model
+```
+This will generate a new `best_proctoring_model.pth` file based on your custom data.
