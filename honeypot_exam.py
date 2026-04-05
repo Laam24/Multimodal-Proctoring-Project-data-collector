@@ -8,11 +8,15 @@ import csv
 import os
 import threading
 import ctypes
-import qrcode
 import requests
 from pynput import keyboard, mouse
 from PIL import Image, ImageTk
 from datetime import datetime
+
+try:
+    import qrcode
+except ImportError:
+    print("WARNING: 'qrcode' library not found. Run 'pip install qrcode'")
 
 # --- CONFIGURATION ---
 BASE_OUTPUT_DIR = "Honeypot_Sessions"
@@ -26,10 +30,8 @@ user32 = ctypes.windll.user32
 EXAM_DURATION_MINUTES = 10
 
 # --- URL SETUP ---
-# 1. Update this with your current ngrok link so the QR code works
+# Update this with your current ngrok link so the QR code works
 NGROK_URL = "https://unnodding-hwa-unepigrammatically.ngrok-free.dev"
-
-# 2. Local communication (Do not change this)
 LOCAL_API_URL = "http://127.0.0.1:5000"
 
 QUESTIONS =[
@@ -55,6 +57,12 @@ class DataRecorder:
         self.audio_thread = threading.Thread(target=self._record_audio)
         fourcc = cv2.VideoWriter_fourcc(*'mp4v')
         self.video_out = cv2.VideoWriter(os.path.join(self.session_dir, 'webcam_video.mp4'), fourcc, FRAME_RATE, RESOLUTION)
+        
+        # --- NEW: REAL-WORLD TIMEKEEPING ---
+        self.start_time = time.time()
+        self.frames_written = 0
+        # -----------------------------------
+        
         self.audio_thread.start()
         self.k_listener = keyboard.Listener(on_press=self._on_key)
         self.m_listener = mouse.Listener(on_click=self._on_click)
@@ -63,7 +71,10 @@ class DataRecorder:
         self.log_event("SESSION_START", "")
 
     def write_video_frame(self, frame):
-        if self.is_recording and self.video_out: self.video_out.write(frame)
+        if self.is_recording and self.video_out: 
+            self.video_out.write(frame)
+            self.frames_written += 1 # Track exactly how many frames exist
+            
     def log_event(self, event, details):
         if self.is_recording: self.event_writer.writerow([time.time(), event, details]); self.event_file.flush()
     def _record_audio(self):
@@ -109,7 +120,11 @@ class ExamApp:
         # --- SETUP SCREEN ---
         tk.Label(self.setup_frame, text="Honeypot Exam Protocol", font=("Arial", 24, "bold")).pack(pady=20)
         tk.Label(self.setup_frame, text="Subject ID:", font=("Arial", 12)).pack()
-        self.entry_id = tk.Entry(self.setup_frame, font=("Arial", 12)); self.entry_id.insert(0, "User_01"); self.entry_id.pack(pady=5)
+        
+        # THE FIX: Cleanly create and pack the entry box so it renders properly
+        self.entry_id = tk.Entry(self.setup_frame, font=("Arial", 14), width=20, justify="center")
+        self.entry_id.insert(0, "User_01")
+        self.entry_id.pack(pady=10)
         
         qr_url = f"{NGROK_URL}/"
         try:
@@ -119,6 +134,7 @@ class ExamApp:
             tk.Label(self.setup_frame, image=self.qr_photo).pack()
         except Exception as e:
             print(f"DEBUG: QR Code generation failed: {e}")
+            tk.Label(self.setup_frame, text="(QR Code failed to load. Check console.)", fg="red").pack(pady=10)
         
         tk.Button(self.setup_frame, text="START EXAM", font=("Arial", 16), bg="green", fg="white", command=self.start_exam).pack(pady=30)
         
@@ -128,8 +144,7 @@ class ExamApp:
         
         self.lbl_timer = tk.Label(top_bar, text="10:00", font=("Consolas", 24), fg="red")
         self.lbl_timer.pack(side=tk.LEFT)
-        
-        # Mini video preview to ensure camera is running
+
         self.lbl_mini_vid = tk.Label(top_bar, text="Camera Preview Loading...")
         self.lbl_mini_vid.pack(side=tk.RIGHT)
 
@@ -146,23 +161,35 @@ class ExamApp:
 
     def start_exam(self):
         print("DEBUG: Start Exam Button Clicked.")
-        subject_id = self.entry_id.get()
-        if not subject_id: messagebox.showerror("Error", "Please enter Subject ID"); return
+        
+        # Safe check to prevent crashes if UI fails to render
+        if not hasattr(self, 'entry_id'):
+            messagebox.showerror("Error", "Subject ID field is missing from UI!")
+            return
+            
+        subject_id = self.entry_id.get().strip()
+        if not subject_id: 
+            messagebox.showerror("Error", "Please enter Subject ID")
+            return
         
         session_dir = os.path.join(BASE_OUTPUT_DIR, f"{subject_id}_{datetime.now().strftime('%Y%m%d_%H%M%S')}")
         print(f"DEBUG: Session folder will be: {session_dir}")
 
-        # Send start command to server
         try:
             print(f"DEBUG: Sending command to {LOCAL_API_URL}...")
             res = requests.post(f"{LOCAL_API_URL}/start_session", json={"session_dir": session_dir}, timeout=3)
             print(f"DEBUG: Server responded with status: {res.status_code}")
+            
+            # --- NEW: THE HEAD START ---
+            print("DEBUG: Giving phone 1 second to spin up its camera...")
+            time.sleep(1.0) 
+            # ---------------------------
+            
         except Exception as e:
             print(f"DEBUG: Failed to contact server: {e}")
             messagebox.showerror("Error", f"Could not contact server. Is server.py running?\nError: {e}")
             return
 
-        # Start background recording
         print("DEBUG: Initializing DataRecorder...")
         try:
             self.recorder = DataRecorder(session_dir)
@@ -181,19 +208,15 @@ class ExamApp:
         
         # --- NEW: CLAPPERBOARD SYNC FLASH ---
         print("DEBUG: Flashing screen for synchronization...")
-        # Save original colors
         orig_bg = self.root.cget("bg")
-        # Flash pure white
         self.root.configure(bg="white")
         self.exam_frame.configure(bg="white")
         self.lbl_timer.configure(bg="white")
         self.lbl_question.configure(bg="white")
-        self.root.update() # Force screen to draw the white
+        self.root.update() 
         
-        # Hold the flash for 500ms
-        time.sleep(0.5)
+        time.sleep(0.5) # Hold the flash for 500ms
         
-        # Revert back to normal colors
         self.root.configure(bg=orig_bg)
         self.exam_frame.configure(bg=orig_bg)
         self.lbl_timer.configure(bg=orig_bg)
@@ -240,13 +263,11 @@ class ExamApp:
         self.exam_active = False
         print("DEBUG: Finishing Exam...")
         
-        # 1. STOP THE DESKTOP RECORDER FIRST
         if self.recorder:
             self.recorder.log_event("SESSION_END", "")
             saved_path = self.recorder.stop()
             self.recorder = None
         
-        # 2. TELL THE SERVER TO STOP
         try:
             print("DEBUG: Sending STOP to server...")
             requests.post(f"{LOCAL_API_URL}/stop_session", timeout=5)
@@ -260,9 +281,16 @@ class ExamApp:
         ret, frame = self.cap.read()
         if ret:
             if self.exam_active and self.recorder:
-                self.recorder.write_video_frame(frame)
                 
-                # Show a tiny preview in the top right to confirm it's working
+                # --- NEW: FRAME PADDING LOGIC ---
+                elapsed_time = time.time() - self.recorder.start_time
+                expected_frames = int(elapsed_time * FRAME_RATE)
+                frames_to_write = expected_frames - self.recorder.frames_written
+                
+                for _ in range(frames_to_write):
+                    self.recorder.write_video_frame(frame)
+                # --------------------------------
+                
                 preview = cv2.resize(frame, (160, 120))
                 preview_rgb = cv2.cvtColor(preview, cv2.COLOR_BGR2RGB)
                 img = Image.fromarray(preview_rgb)
@@ -270,7 +298,8 @@ class ExamApp:
                 self.lbl_mini_vid.imgtk = imgtk
                 self.lbl_mini_vid.configure(image=imgtk)
                 
-        self.root.after(int(1000/FRAME_RATE), self.update_feed)
+        # Ask Tkinter to run as fast as possible (10ms) to prevent video speed issues
+        self.root.after(10, self.update_feed)
 
     def on_closing(self):
         if self.exam_active:
