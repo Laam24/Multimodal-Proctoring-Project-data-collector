@@ -57,7 +57,6 @@ def start_session():
         return jsonify({"status": "error", "message": "session_dir not provided"}), 400
     
     with current_session_data["lock"]:
-        current_session_data["frames"] = []
         current_session_data["output_path"] = os.path.join(session_dir, "phone_video.mp4")
         current_session_data["is_recording"] = True
         current_session_data["start_time"] = time.time()
@@ -67,30 +66,37 @@ def start_session():
     print("="*30 + "\n")
     return jsonify({"status": "success", "message": "Recording started"})
 
-@app.route('/upload_frame', methods=['POST'])
-def upload_frame():
-    """Receives a single video frame from the phone's webpage."""
+# Replace the old /upload_frame and save_file_in_background with this:
+
+@app.route('/upload_video', methods=['POST'])
+def upload_video():
+    """Receives the final, complete video file directly from the phone's memory."""
+    print("\n" + "="*30)
+    print("DEBUG: Receiving high-quality video from phone...")
+    
     with current_session_data["lock"]:
-        is_rec = current_session_data["is_recording"]
+        # Change output from .mp4 to .webm (standard HTML5 video format)
+        save_path = current_session_data["output_path"].replace(".mp4", ".webm")
     
-    if not is_rec:
-        return jsonify({"status": "stopped"}), 200
-
-    data = request.get_json()
-    image_data = data.get('image')
+    if not save_path:
+        print("ERROR: No active session path found.")
+        return jsonify({"error": "No active session"}), 400
+        
+    if 'video' not in request.files:
+        print("ERROR: No video file received in the request.")
+        return jsonify({"error": "No video file part"}), 400
+        
+    file = request.files['video']
     
-    if image_data:
-        try:
-            header, encoded = image_data.split(",", 1)
-            frame_bytes = base64.b64decode(encoded)
-            with current_session_data["lock"]:
-                current_session_data["frames"].append(frame_bytes)
-                # ADD THIS LINE TO DEBUG:
-                print(f"Frame Received. Total in memory: {len(current_session_data['frames'])}", end='\r')
-        except Exception as e:
-            print(f"ERROR: Could not decode base64 frame: {e}")
-
-    return jsonify({"status": "received"})
+    try:
+        os.makedirs(os.path.dirname(save_path), exist_ok=True)
+        file.save(save_path)
+        print(f"✅ SUCCESS: Flawless client-side video saved to:\n{save_path}")
+    except Exception as e:
+        print(f"❌ ERROR saving video: {e}")
+        
+    print("="*30 + "\n")
+    return jsonify({"status": "success"})
 
 def save_file_in_background(frames, path, session_duration):
     """

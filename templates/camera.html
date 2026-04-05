@@ -2,110 +2,108 @@
 <html>
 <head>
     <title>Workspace Camera</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-        body { font-family: sans-serif; text-align: center; background-color: #222; color: white; padding-top: 20px;}
-        #video { transform: scaleX(-1); border: 4px solid #555; border-radius: 10px; max-width: 90%; }
-        #status { font-size: 1.5em; margin: 20px; font-weight: bold; }
-        .recording { background-color: #d32f2f; color: white; padding: 10px; border-radius: 5px; }
-        .finished { background-color: #388e3c; color: white; padding: 10px; border-radius: 5px; }
+        body { background-color: #222; color: white; text-align: center; font-family: sans-serif; }
+        video { width: 100%; max-width: 500px; border: 3px solid #444; border-radius: 10px; margin-top: 20px;}
+        #status { margin-top: 20px; font-weight: bold; font-size: 20px; color: yellow; }
     </style>
 </head>
 <body>
-    <h2>Workspace Camera</h2>
-    <video id="video" width="640" height="480" autoplay playsinline></video>
-    <div id="status">Requesting camera access...</div>
+    <h2>Exam Camera Active</h2>
+    <p>Please place your phone so it can see your laptop screen and hands.</p>
+    
+    <video id="videoElement" autoplay playsinline muted></video>
+    <div id="status">Waiting for Desktop to start exam...</div>
 
     <script>
-        const video = document.getElementById('video');
-        const statusEl = document.getElementById('status');
-        let stream;
-        let isSending = false;
-        let sendInterval = null;
-        let frameCounter = 0; // Our diagnostic counter
-
-        async function setupCamera() {
-            try {
-                const constraints = { video: { facingMode: 'environment', width: { ideal: 480 }, height: { ideal: 360 } } };
-                stream = await navigator.mediaDevices.getUserMedia(constraints);
-                video.srcObject = stream;
-                statusEl.textContent = 'Ready. Waiting for Desktop App...';
-            } catch (err) {
-                try {
-                    stream = await navigator.mediaDevices.getUserMedia({ video: true });
-                    video.srcObject = stream;
-                    statusEl.textContent = 'Ready. Waiting for Desktop App...';
-                } catch (fallbackErr) {
-                    statusEl.textContent = 'ERROR: Camera access denied.';
-                    console.error("Camera Error: ", fallbackErr);
-                }
-            }
-        }
-
-        function sendFrame() {
-            if (!isSending) return;
-            
-            frameCounter++; // Count the frame
-            statusEl.textContent = 'RECORDING (Frames Sent: ' + frameCounter + ')';
-
-            const canvas = document.createElement('canvas');
-            canvas.width = video.videoWidth; 
-            canvas.height = video.videoHeight;
-            canvas.getContext('2d').drawImage(video, 0, 0, canvas.width, canvas.height);
-            
-            fetch('/upload_frame', {
-                method: 'POST',
-                headers: { 
-                    'Content-Type': 'application/json',
-                    'ngrok-skip-browser-warning': 'true' 
-                },
-                body: JSON.stringify({ image: canvas.toDataURL('image/jpeg', 0.4) })
-            }).catch(e => console.error('Upload Error:', e));
-        }
-
-        function startSending() {
-            if (isSending) return;
-            isSending = true;
-            frameCounter = 0;
-            statusEl.className = 'recording';
-            
-            if (sendInterval) clearInterval(sendInterval);
-            sendInterval = setInterval(sendFrame, 200); // Send 5 frames per second
-        }
+        const videoElement = document.getElementById('videoElement');
+        const statusDiv = document.getElementById('status');
         
-        function stopSending() {
-            if (!isSending) return;
-            isSending = false;
-            
-            if (sendInterval) clearInterval(sendInterval);
-            sendInterval = null;
-            
-            statusEl.textContent = 'EXAM FINISHED (Total frames sent: ' + frameCounter + ').';
-            statusEl.className = 'finished';
-            
-            if (stream) stream.getTracks().forEach(track => track.stop());
+        let mediaRecorder;
+        let recordedChunks = [];
+        let isRecordingLocally = false;
+
+        // Start checking the server status every 1 second
+        setInterval(checkServerStatus, 1000);
+
+        async function checkServerStatus() {
+            try {
+                let response = await fetch('/status');
+                let data = await response.json();
+                
+                if (data.is_recording && !isRecordingLocally) {
+                    startRecording();
+                } else if (!data.is_recording && isRecordingLocally) {
+                    stopAndUpload();
+                }
+            } catch (err) {
+                console.log("Waiting for server...");
+            }
         }
 
-        // Check server status every second
-        setInterval(async () => {
+        async function startRecording() {
             try {
-                const cb = new Date().getTime();
-                const res = await fetch('/status?t=' + cb, { 
-                    headers: { 'ngrok-skip-browser-warning': 'true' } 
+                // Get the back camera (environment)
+                const stream = await navigator.mediaDevices.getUserMedia({ 
+                    video: { facingMode: "environment", frameRate: { ideal: 30, max: 30 } }, 
+                    audio: false 
                 });
-                const data = await res.json();
                 
-                if (data.is_recording && !isSending) {
-                    startSending();
-                } else if (!data.is_recording && isSending) {
-                    stopSending();
-                }
-            } catch (e) {
-                if(isSending) stopSending();
+                videoElement.srcObject = stream;
+                
+                // Record locally in WebM format
+                mediaRecorder = new MediaRecorder(stream, { mimeType: 'video/webm' });
+                
+                mediaRecorder.ondataavailable = function(e) {
+                    if (e.data.size > 0) {
+                        recordedChunks.push(e.data);
+                    }
+                };
+                
+                mediaRecorder.start();
+                isRecordingLocally = true;
+                statusDiv.innerText = "🔴 RECORDING IN PROGRESS";
+                statusDiv.style.color = "red";
+                
+            } catch (err) {
+                alert("Camera access denied or failed: " + err);
             }
-        }, 1000);
+        }
 
-        // Initialize the camera
-        setupCamera();
+        async function stopAndUpload() {
+            isRecordingLocally = false;
+            statusDiv.innerText = "Uploading secure video... Please wait.";
+            statusDiv.style.color = "orange";
+            
+            mediaRecorder.stop();
+            
+            mediaRecorder.onstop = async () => {
+                // Compile the chunks into one massive file
+                const blob = new Blob(recordedChunks, { type: 'video/webm' });
+                const formData = new FormData();
+                formData.append('video', blob, 'phone_video.webm');
+                
+                // Send it to the server
+                try {
+                    await fetch('/upload_video', {
+                        method: 'POST',
+                        body: formData
+                    });
+                    statusDiv.innerText = "✅ Upload Complete. You may close this tab.";
+                    statusDiv.style.color = "#00FF00";
+                    
+                    // Turn off the camera
+                    videoElement.srcObject.getTracks().forEach(track => track.stop());
+                } catch (err) {
+                    statusDiv.innerText = "❌ Upload Failed. Do not close tab.";
+                    statusDiv.style.color = "red";
+                }
+                
+                recordedChunks = [];
+                mediaRecorder = null;
+            };
+        }
     </script>
 </body>
 </html>

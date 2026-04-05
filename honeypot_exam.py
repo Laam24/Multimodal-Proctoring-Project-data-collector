@@ -173,11 +173,33 @@ class ExamApp:
             
         self.exam_active = True
         
-        # UI SWITCH (The part that was failing)
+        # UI SWITCH
         print("DEBUG: Switching UI Frames...")
         self.setup_frame.pack_forget()
         self.exam_frame.pack(expand=True, fill=tk.BOTH)
-        self.root.update() # FORCE REDRAW OF THE SCREEN
+        self.root.update() 
+        
+        # --- NEW: CLAPPERBOARD SYNC FLASH ---
+        print("DEBUG: Flashing screen for synchronization...")
+        # Save original colors
+        orig_bg = self.root.cget("bg")
+        # Flash pure white
+        self.root.configure(bg="white")
+        self.exam_frame.configure(bg="white")
+        self.lbl_timer.configure(bg="white")
+        self.lbl_question.configure(bg="white")
+        self.root.update() # Force screen to draw the white
+        
+        # Hold the flash for 500ms
+        time.sleep(0.5)
+        
+        # Revert back to normal colors
+        self.root.configure(bg=orig_bg)
+        self.exam_frame.configure(bg=orig_bg)
+        self.lbl_timer.configure(bg=orig_bg)
+        self.lbl_question.configure(bg=orig_bg)
+        self.root.update()
+        # ------------------------------------
         
         self.exam_end_time = time.time() + (EXAM_DURATION_MINUTES * 60)
         self.update_exam_timer()
