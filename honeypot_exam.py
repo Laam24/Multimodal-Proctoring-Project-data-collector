@@ -33,11 +33,11 @@ NGROK_URL = "https://unnodding-hwa-unepigrammatically.ngrok-free.dev"
 LOCAL_API_URL = "http://127.0.0.1:5000"
 
 QUESTIONS =[
-    "1. Explain true positive and false negative in Machine Learning.",
-    "2. Write 3 differences between Quick Sort and Merge Sort.",
-    "3. What is Newton's Law of Gravitation?",
-    "4. How many types of Cache memory in a processor and what are they?",
-    "5. What are the four pillars of OOP and what are they?"
+    "1. What is a Digital Image?",
+    "2. What is Inheritence?",
+    "3. Explain the difference between FIFO and LIFO.",
+    "4. Write the definition of the following according to database : DBMS, Entity, Relation, Attribute.",
+    "5. What is a For-Loop?"
 ]
 
 class DataRecorder:
