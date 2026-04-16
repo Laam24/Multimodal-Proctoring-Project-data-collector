@@ -22,7 +22,6 @@ Thumbs.db
 
 # Logs and databases
 *.log
-*.csv
 *.db
 
 # Task files (if you don't want to upload the large .task files)
