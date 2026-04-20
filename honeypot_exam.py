@@ -35,11 +35,11 @@ NGROK_URL = "https://unnodding-hwa-unepigrammatically.ngrok-free.dev"
 LOCAL_API_URL = "http://127.0.0.1:5000"
 
 QUESTIONS =[
-    "1. What is Phylogenetic Analysis?",
-    "2. How many parts in Hadoop ecosystem and what are they?",
-    "3. WHat is Segmentation in Digital Image Processing?",
-    "4. Explain Sentiment Analysis and what is Ambiguity in NLP?",
-    "5. What is Map Reduce?"
+    "1. Write the difference between a Class and an Object.",
+    "2. Explain what is K-map.",
+    "3. Write the difference between structured and unstructured data.",
+    "4. Write the 5 V's of Big Data.",
+    "5. What is Data Mining?"
 ]
 
 class DataRecorder:
