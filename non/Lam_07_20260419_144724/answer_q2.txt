@@ -1,0 +1,7 @@
+Three differences between a stack and a queue are given below:
+
+1. A stack is a data structure following LIFO (Last in first out). here the data variable that is input last gets output first. On the other hand, the queue follows FIFO (first in first out). here the data variable that is input first gets output first.
+
+2. Stack follows the input and output operations Push and Pop where queue does not have any designated operations other than input and output.
+
+3. Stack is stack and queue is queue

@@ -1,0 +1,13 @@
+Merge Sort: 
+in all cases (worst, average, best).
+Quick Sort: 
+on average, but can degrade to 
+ in the worst case (e.g., poor pivot selection).
+
+Merge Sort: Requires extra space, 
+,making it less efficient for memory-constrained systems.
+Quick Sort: Operates in-place, requiring only 
+
+
+
+ space for the recursion stack.

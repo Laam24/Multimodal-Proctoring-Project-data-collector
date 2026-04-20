@@ -1,0 +1,10 @@
+1. image acquisition
+2. image enhancement
+3. image restoration
+4. color image processing
+5. multiresolution processing
+6. compression
+7. morphological processing
+8. segmentation
+9. representation and description
+10. object recognition

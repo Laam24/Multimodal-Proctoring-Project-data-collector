@@ -1,0 +1,2 @@
+True positive : Model predicts positive and it is actually positive
+False Negative: Model predicts negative and it is actually negative

@@ -1,0 +1,2 @@
+class: templet off an object
+object: real intance of a class in memory

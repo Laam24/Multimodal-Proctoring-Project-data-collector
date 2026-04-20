@@ -1,0 +1,1 @@
+Conditional statements are "if-then" logical constructs that execute specific code blocks or actions only when a defined condition is true. They enable decision-making in programming and logic, allowing programs to react differently to data, user input, or scenarios. A statement takes the form "If P, then Q," where P is the hypothesis and Q is the conclusion.

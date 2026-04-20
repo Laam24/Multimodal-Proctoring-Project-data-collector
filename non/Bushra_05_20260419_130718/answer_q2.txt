@@ -1,0 +1,9 @@
+stack:
+1. LIFO
+2. insert and end from top
+3. like a pile of plate
+
+QUEUE:
+1. FIFO
+2. insert al rear, delete from front
+3. like a line of pople wiating in queue

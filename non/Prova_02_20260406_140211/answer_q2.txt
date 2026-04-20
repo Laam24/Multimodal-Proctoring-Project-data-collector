@@ -1,0 +1,1 @@
+inheritence is one class is child/ superclass, another class is parensts/subclass

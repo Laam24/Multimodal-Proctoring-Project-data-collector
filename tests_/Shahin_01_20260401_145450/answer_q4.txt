@@ -1,0 +1,3 @@
+1. set initial values for object aatributes 
+2. Allocate or prepare  resources if needed
+3. Ensure the object starts in valid state

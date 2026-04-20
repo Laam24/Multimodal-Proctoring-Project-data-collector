@@ -1,0 +1,1 @@
+a forloop is  a control structure in programming used to reeat a block of code for a specific number of times

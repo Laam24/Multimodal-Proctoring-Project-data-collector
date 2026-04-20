@@ -1,0 +1,1 @@
+a for loop is a basic component of programming. a loop is mainly doing somethong over and over again. similarly a for loop states that the loop will keep on running until the given condition is met. therefore, the for loop keeps the process or work flow running until the given condition is fulfilled

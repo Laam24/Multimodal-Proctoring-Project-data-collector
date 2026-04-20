@@ -1,0 +1,3 @@
+sentiment analysis is a method in NLP that identifies the emotional tone of next weather its positive,negative or neutral
+
+Ambiguity in NLP when a word or sentance has multiple possible meanings, making it hard for a computer to understand the correct interpretation

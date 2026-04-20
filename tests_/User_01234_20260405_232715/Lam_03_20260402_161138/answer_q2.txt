@@ -1,0 +1,5 @@
+the three differences between a quicksort and merge sort are given below:
+
+1. merge sort consistently performs at O(nlogn) but quicksort averages O(nlogn) but worst case is O(n2)
+2. Quicksort is an in-place algorithm, meaning it sorts elements within the original array and requires minimal additional memory, typically O(log n) for the recursion stack. Merge sort is an out-of-place algorithm that requires O(n) auxiliary space because it must create temporary arrays to store and merge the divided elements.
+3. merge sort is stable, quick sort is not stable

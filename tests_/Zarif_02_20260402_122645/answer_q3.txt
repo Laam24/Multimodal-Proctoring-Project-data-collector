@@ -1,0 +1,4 @@
+Select items with weight & value to maximize value without exceeding capacity
+Ex:
+capacity=5-choose(2,3) + (3,4)-value=7
+capacity=5-choose(2,40) = (3.50)-value=90

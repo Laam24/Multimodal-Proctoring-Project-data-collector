@@ -1,0 +1,1 @@
+an array consists of multiple variables. therefore a variable can hold a single data where an array can hold multiple data

@@ -1,0 +1,5 @@
+there are four core parts
+1.HDFS
+2.YARN
+3.MapReduse
+4.Hadoop Common

@@ -1,0 +1,3 @@
+THe knapsack algorithm is a combinatorial optimization technique that maximises the total value of items packed into a container with limited weight capacity.
+
+2 examples of knapsack : greedy algorithm and dynamic programing

@@ -1,0 +1,1 @@
+The basic operations of stack are push, pop

@@ -1,0 +1,1 @@
+an array is a set of variables together. while a linked list is a list of variabes

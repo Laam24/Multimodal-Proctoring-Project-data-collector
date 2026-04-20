@@ -1,0 +1,5 @@
+Definition: Global aligns entire sequences; Local aligns only similar parts.
+Usage: Global for closely related sequences; Local for distantly related sequences.
+Coverage: Global covers full length; Local covers partial regions.
+Algorithms: Global uses Needleman–Wunsch algorithm; Local uses Smith–Waterman algorithm.
+Result: Global gives one full alignment; Local gives best matching segments only.

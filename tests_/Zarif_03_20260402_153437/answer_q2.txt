@@ -1,0 +1,8 @@
+Quick Sort:
+1.In place partitions array
+2.Avg, 0(nlogn)
+3.Worst 0(n^2) unstable
+Mergw sort
+1.uses extra space
+2.splits array
+3.stable

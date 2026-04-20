@@ -1,0 +1,1 @@
+printf is used for output and scanf is used for user input

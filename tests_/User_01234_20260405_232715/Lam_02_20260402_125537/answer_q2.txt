@@ -1,0 +1,1 @@
+clustering is a machine learning algorithm. it generally takes data and groups them. clustering is usually applied on unstructured data.

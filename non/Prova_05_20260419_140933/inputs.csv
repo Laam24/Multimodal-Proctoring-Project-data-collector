@@ -1,0 +1,742 @@
+Timestamp,Event_Type,Key_Button,Active_Window
+1776586178.7269986,Mouse,Button.left,Honeypot Exam Collector
+1776586181.3948834,Mouse,Button.left,Honeypot Exam Collector
+1776586183.439082,Mouse,Button.left,Google Chrome
+1776586185.0934365,Mouse,Button.left,New Tab - Google Chrome
+1776586185.699136,Keyboard,w,New Tab - Google Chrome
+1776586185.9744875,Keyboard,h,New Tab - Google Chrome
+1776586186.1761696,Keyboard,a,New Tab - Google Chrome
+1776586186.3624709,Keyboard,t,New Tab - Google Chrome
+1776586186.6141753,Keyboard,Key.space,New Tab - Google Chrome
+1776586186.8789766,Keyboard,i,New Tab - Google Chrome
+1776586187.1116178,Keyboard,s,New Tab - Google Chrome
+1776586187.263593,Keyboard,Key.space,New Tab - Google Chrome
+1776586187.466975,Keyboard,a,New Tab - Google Chrome
+1776586187.6791108,Keyboard,Key.space,New Tab - Google Chrome
+1776586187.9634697,Keyboard,l,New Tab - Google Chrome
+1776586188.2157376,Keyboard,i,New Tab - Google Chrome
+1776586188.4502497,Keyboard,n,New Tab - Google Chrome
+1776586189.0989156,Keyboard,k,New Tab - Google Chrome
+1776586189.4244819,Keyboard,e,New Tab - Google Chrome
+1776586189.6356127,Keyboard,d,New Tab - Google Chrome
+1776586189.8497818,Keyboard,Key.space,New Tab - Google Chrome
+1776586190.1532261,Keyboard,l,New Tab - Google Chrome
+1776586190.3682158,Keyboard,i,New Tab - Google Chrome
+1776586190.549372,Keyboard,s,New Tab - Google Chrome
+1776586190.7404075,Keyboard,t,New Tab - Google Chrome
+1776586191.337463,Keyboard,Key.enter,New Tab - Google Chrome
+1776586199.5827265,Mouse,Button.left,what is a linked list - Google Search - Google Chrome
+1776586202.210285,Keyboard,a,Honeypot Exam Collector
+1776586202.4014041,Keyboard,Key.space,Honeypot Exam Collector
+1776586202.7468038,Keyboard,l,Honeypot Exam Collector
+1776586202.971395,Keyboard,i,Honeypot Exam Collector
+1776586203.2332351,Keyboard,n,Honeypot Exam Collector
+1776586203.384317,Keyboard,k,Honeypot Exam Collector
+1776586203.5987914,Keyboard,e,Honeypot Exam Collector
+1776586203.8103228,Keyboard,d,Honeypot Exam Collector
+1776586203.9115686,Keyboard,Key.space,Honeypot Exam Collector
+1776586204.1356537,Keyboard,l,Honeypot Exam Collector
+1776586204.3773086,Keyboard,i,Honeypot Exam Collector
+1776586204.5817513,Keyboard,s,Honeypot Exam Collector
+1776586204.8337595,Keyboard,t,Honeypot Exam Collector
+1776586205.0882545,Keyboard,Key.space,Honeypot Exam Collector
+1776586205.3511605,Keyboard,i,Honeypot Exam Collector
+1776586205.6462376,Keyboard,s,Honeypot Exam Collector
+1776586205.8475227,Keyboard,Key.space,Honeypot Exam Collector
+1776586206.3866012,Keyboard,a,Honeypot Exam Collector
+1776586207.2797356,Keyboard,Key.space,Honeypot Exam Collector
+1776586209.6081746,Mouse,Button.left,Honeypot Exam Collector
+1776586211.8880773,Mouse,Button.left,what is a linked list - Google Search - Google Chrome
+1776586213.7088892,Mouse,Button.left,Honeypot Exam Collector
+1776586215.243953,Mouse,Button.left,what is a linked list - Google Search - Google Chrome
+1776586216.8187258,Keyboard,l,Honeypot Exam Collector
+1776586217.07284,Keyboard,i,Honeypot Exam Collector
+1776586217.3159444,Keyboard,n,Honeypot Exam Collector
+1776586217.5175624,Keyboard,e,Honeypot Exam Collector
+1776586217.7921398,Keyboard,a,Honeypot Exam Collector
+1776586217.9433467,Keyboard,r,Honeypot Exam Collector
+1776586218.188408,Keyboard,Key.space,Honeypot Exam Collector
+1776586218.8354719,Keyboard,d,Honeypot Exam Collector
+1776586219.0471222,Keyboard,a,Honeypot Exam Collector
+1776586219.2024157,Keyboard,t,Honeypot Exam Collector
+1776586219.4137127,Keyboard,a,Honeypot Exam Collector
+1776586219.6078644,Keyboard,Key.space,Honeypot Exam Collector
+1776586219.9097958,Keyboard,s,Honeypot Exam Collector
+1776586220.1141078,Keyboard,t,Honeypot Exam Collector
+1776586220.3257923,Keyboard,r,Honeypot Exam Collector
+1776586220.5377192,Keyboard,u,Honeypot Exam Collector
+1776586220.852948,Keyboard,c,Honeypot Exam Collector
+1776586221.1590672,Keyboard,t,Honeypot Exam Collector
+1776586221.4310017,Keyboard,u,Honeypot Exam Collector
+1776586221.5614452,Keyboard,r,Honeypot Exam Collector
+1776586221.7467048,Keyboard,e,Honeypot Exam Collector
+1776586222.1113625,Keyboard,Key.space,Honeypot Exam Collector
+1776586223.688513,Mouse,Button.left,Honeypot Exam Collector
+1776586225.0646665,Mouse,Button.left,what is a linked list - Google Search - Google Chrome
+1776586225.8773627,Mouse,Button.left,Honeypot Exam Collector
+1776586226.832704,Mouse,Button.left,what is a linked list - Google Search - Google Chrome
+1776586228.3121674,Keyboard,c,Honeypot Exam Collector
+1776586228.5539582,Keyboard,o,Honeypot Exam Collector
+1776586228.8085938,Keyboard,n,Honeypot Exam Collector
+1776586229.0404246,Keyboard,s,Honeypot Exam Collector
+1776586229.2669806,Keyboard,i,Honeypot Exam Collector
+1776586229.4269907,Keyboard,s,Honeypot Exam Collector
+1776586229.6617715,Keyboard,t,Honeypot Exam Collector
+1776586229.95484,Keyboard,i,Honeypot Exam Collector
+1776586230.2187734,Keyboard,n,Honeypot Exam Collector
+1776586230.4309747,Keyboard,g,Honeypot Exam Collector
+1776586230.6458175,Keyboard,Key.space,Honeypot Exam Collector
+1776586230.9381697,Keyboard,o,Honeypot Exam Collector
+1776586231.2230632,Keyboard,f,Honeypot Exam Collector
+1776586231.3853383,Keyboard,Key.space,Honeypot Exam Collector
+1776586231.6497393,Keyboard,a,Honeypot Exam Collector
+1776586231.8308687,Keyboard,Key.space,Honeypot Exam Collector
+1776586233.5658083,Mouse,Button.left,Honeypot Exam Collector
+1776586235.100271,Mouse,Button.left,what is a linked list - Google Search - Google Chrome
+1776586236.9371324,Keyboard,s,Honeypot Exam Collector
+1776586237.1286635,Keyboard,e,Honeypot Exam Collector
+1776586238.103658,Keyboard,q,Honeypot Exam Collector
+1776586238.4298782,Keyboard,u,Honeypot Exam Collector
+1776586238.765002,Keyboard,e,Honeypot Exam Collector
+1776586238.9662285,Keyboard,m,Honeypot Exam Collector
+1776586239.8085334,Keyboard,Key.backspace,Honeypot Exam Collector
+1776586240.365485,Keyboard,n,Honeypot Exam Collector
+1776586240.7910933,Keyboard,c,Honeypot Exam Collector
+1776586241.0128846,Keyboard,e,Honeypot Exam Collector
+1776586241.1841466,Keyboard,Key.space,Honeypot Exam Collector
+1776586241.5192568,Keyboard,o,Honeypot Exam Collector
+1776586241.955486,Keyboard,f,Honeypot Exam Collector
+1776586242.1669798,Keyboard,Key.space,Honeypot Exam Collector
+1776586242.431884,Keyboard,a,Honeypot Exam Collector
+1776586242.5729227,Keyboard,Key.space,Honeypot Exam Collector
+1776586242.8182223,Keyboard,n,Honeypot Exam Collector
+1776586243.0893147,Keyboard,o,Honeypot Exam Collector
+1776586243.2449539,Keyboard,d,Honeypot Exam Collector
+1776586243.4562154,Keyboard,e,Honeypot Exam Collector
+1776586243.6986349,Keyboard,s,Honeypot Exam Collector
+1776586244.0529926,Keyboard,Key.space,Honeypot Exam Collector
+1776586246.1323237,Mouse,Button.left,Honeypot Exam Collector
+1776586249.880277,Mouse,Button.left,what is a linked list - Google Search - Google Chrome
+1776586251.8055654,Keyboard,",",Honeypot Exam Collector
+1776586252.5129697,Keyboard,w,Honeypot Exam Collector
+1776586252.754675,Keyboard,h,Honeypot Exam Collector
+1776586252.9995403,Keyboard,e,Honeypot Exam Collector
+1776586253.2712069,Keyboard,r,Honeypot Exam Collector
+1776586253.4665189,Keyboard,e,Honeypot Exam Collector
+1776586253.6480775,Keyboard,Key.space,Honeypot Exam Collector
+1776586254.2147079,Keyboard,e,Honeypot Exam Collector
+1776586254.5916395,Keyboard,a,Honeypot Exam Collector
+1776586254.7832158,Keyboard,c,Honeypot Exam Collector
+1776586255.0479703,Keyboard,h,Honeypot Exam Collector
+1776586255.289641,Keyboard,Key.space,Honeypot Exam Collector
+1776586255.665798,Keyboard,n,Honeypot Exam Collector
+1776586255.9708009,Keyboard,o,Honeypot Exam Collector
+1776586256.2016668,Keyboard,d,Honeypot Exam Collector
+1776586256.407581,Keyboard,e,Honeypot Exam Collector
+1776586258.2889354,Mouse,Button.left,Honeypot Exam Collector
+1776586260.222656,Mouse,Button.left,what is a linked list - Google Search - Google Chrome
+1776586261.4596298,Keyboard,Key.space,Honeypot Exam Collector
+1776586261.8030992,Keyboard,c,Honeypot Exam Collector
+1776586262.0381496,Keyboard,o,Honeypot Exam Collector
+1776586262.514109,Keyboard,n,Honeypot Exam Collector
+1776586262.8807797,Keyboard,t,Honeypot Exam Collector
+1776586263.1023004,Keyboard,a,Honeypot Exam Collector
+1776586263.2938023,Keyboard,i,Honeypot Exam Collector
+1776586263.538326,Keyboard,n,Honeypot Exam Collector
+1776586263.739773,Keyboard,s,Honeypot Exam Collector
+1776586263.8610437,Keyboard,Key.space,Honeypot Exam Collector
+1776586264.217403,Keyboard,d,Honeypot Exam Collector
+1776586264.4025507,Keyboard,a,Honeypot Exam Collector
+1776586264.5727334,Keyboard,t,Honeypot Exam Collector
+1776586264.7242136,Keyboard,a,Honeypot Exam Collector
+1776586268.0289805,Mouse,Button.left,Honeypot Exam Collector
+1776586273.4080966,Mouse,Button.left,Honeypot Exam Collector
+1776586274.793428,Mouse,Button.left,what is a linked list - Google Search - Google Chrome
+1776586275.348895,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586275.8555274,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586275.8954701,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586275.936057,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586275.979008,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.0194833,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.0596037,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.099809,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.1400948,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.180516,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.2208467,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.2610507,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.3015332,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.3417165,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.381849,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.4226015,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.4664338,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.506533,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.546082,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.5864663,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.6267316,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.6781476,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.7186658,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.7591705,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.7990067,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.8392355,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.8793616,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.9197059,Keyboard,Key.backspace,what is a linked list - Google Search - Google Chrome
+1776586276.9398296,Keyboard,t,what is a linked list - Google Search - Google Chrome
+1776586277.235118,Keyboard,h,what is a linked list - Google Search - Google Chrome
+1776586277.5414093,Keyboard,r,what is a linked list - Google Search - Google Chrome
+1776586277.8846965,Keyboard,e,what is a linked list - Google Search - Google Chrome
+1776586278.079914,Keyboard,e,what is a linked list - Google Search - Google Chrome
+1776586278.4227247,Keyboard,Key.space,what is a linked list - Google Search - Google Chrome
+1776586278.738471,Keyboard,d,what is a linked list - Google Search - Google Chrome
+1776586279.0128286,Keyboard,i,what is a linked list - Google Search - Google Chrome
+1776586279.3149042,Keyboard,f,what is a linked list - Google Search - Google Chrome
+1776586279.4353585,Keyboard,f,what is a linked list - Google Search - Google Chrome
+1776586279.5604498,Keyboard,e,what is a linked list - Google Search - Google Chrome
+1776586279.7722359,Keyboard,r,what is a linked list - Google Search - Google Chrome
+1776586280.006738,Keyboard,n,what is a linked list - Google Search - Google Chrome
+1776586280.2087085,Keyboard,e,what is a linked list - Google Search - Google Chrome
+1776586280.469808,Keyboard,c,what is a linked list - Google Search - Google Chrome
+1776586280.816779,Keyboard,e,what is a linked list - Google Search - Google Chrome
+1776586281.0509274,Keyboard,Key.space,what is a linked list - Google Search - Google Chrome
+1776586281.8495991,Keyboard,b,what is a linked list - Google Search - Google Chrome
+1776586282.0640361,Keyboard,e,what is a linked list - Google Search - Google Chrome
+1776586282.3773336,Keyboard,t,what is a linked list - Google Search - Google Chrome
+1776586282.763223,Keyboard,w,what is a linked list - Google Search - Google Chrome
+1776586283.0177402,Keyboard,e,what is a linked list - Google Search - Google Chrome
+1776586283.179669,Keyboard,e,what is a linked list - Google Search - Google Chrome
+1776586283.4407983,Keyboard,n,what is a linked list - Google Search - Google Chrome
+1776586283.6351097,Keyboard,Key.space,what is a linked list - Google Search - Google Chrome
+1776586285.0230312,Keyboard,s,what is a linked list - Google Search - Google Chrome
+1776586285.3555522,Keyboard,t,what is a linked list - Google Search - Google Chrome
+1776586285.5704281,Keyboard,a,what is a linked list - Google Search - Google Chrome
+1776586285.720736,Keyboard,c,what is a linked list - Google Search - Google Chrome
+1776586286.1368325,Keyboard,k,what is a linked list - Google Search - Google Chrome
+1776586286.3485081,Keyboard,Key.space,what is a linked list - Google Search - Google Chrome
+1776586286.4895897,Keyboard,a,what is a linked list - Google Search - Google Chrome
+1776586286.7554297,Keyboard,n,what is a linked list - Google Search - Google Chrome
+1776586286.9565096,Keyboard,d,what is a linked list - Google Search - Google Chrome
+1776586287.1508572,Keyboard,Key.space,what is a linked list - Google Search - Google Chrome
+1776586287.6478355,Keyboard,q,what is a linked list - Google Search - Google Chrome
+1776586287.9709277,Keyboard,u,what is a linked list - Google Search - Google Chrome
+1776586288.1953926,Keyboard,e,what is a linked list - Google Search - Google Chrome
+1776586288.6616492,Keyboard,u,what is a linked list - Google Search - Google Chrome
+1776586288.823649,Keyboard,e,what is a linked list - Google Search - Google Chrome
+1776586289.554888,Keyboard,Key.enter,what is a linked list - Google Search - Google Chrome
+1776586291.5845604,Mouse,Button.left,three differnece between stack and queue - Google Search - Google Chrome
+1776586295.0058665,Mouse,Button.left,three difference between stack and queue - Google Search - Google Chrome
+1776586300.3301873,Mouse,Button.left,three difference between stack and queue - Google Search - Google Chrome
+1776586302.0877032,Keyboard,s,Honeypot Exam Collector
+1776586302.4146612,Keyboard,t,Honeypot Exam Collector
+1776586302.606376,Keyboard,a,Honeypot Exam Collector
+1776586302.9220543,Keyboard,c,Honeypot Exam Collector
+1776586303.6402862,Keyboard,k,Honeypot Exam Collector
+1776586303.9065368,Keyboard,Key.space,Honeypot Exam Collector
+1776586304.3931868,Keyboard,l,Honeypot Exam Collector
+1776586305.3152544,Keyboard,Key.backspace,Honeypot Exam Collector
+1776586306.2288961,Keyboard,Key.shift,Honeypot Exam Collector
+1776586306.4503279,Keyboard,L,Honeypot Exam Collector
+1776586306.6850119,Keyboard,I,Honeypot Exam Collector
+1776586307.393715,Keyboard,F,Honeypot Exam Collector
+1776586307.8098655,Keyboard,O,Honeypot Exam Collector
+1776586308.9948452,Keyboard,Key.shift,Honeypot Exam Collector
+1776586309.2598248,Keyboard,(,Honeypot Exam Collector
+1776586309.8888438,Keyboard,Key.space,Honeypot Exam Collector
+1776586310.2646513,Keyboard,l,Honeypot Exam Collector
+1776586310.5258307,Keyboard,a,Honeypot Exam Collector
+1776586310.7705631,Keyboard,s,Honeypot Exam Collector
+1776586311.1141586,Keyboard,t,Honeypot Exam Collector
+1776586311.3591719,Keyboard,Key.space,Honeypot Exam Collector
+1776586311.6204276,Keyboard,i,Honeypot Exam Collector
+1776586311.9265387,Keyboard,n,Honeypot Exam Collector
+1776586312.0989497,Keyboard,Key.space,Honeypot Exam Collector
+1776586312.4735987,Keyboard,f,Honeypot Exam Collector
+1776586312.7589066,Keyboard,i,Honeypot Exam Collector
+1776586313.0306199,Keyboard,r,Honeypot Exam Collector
+1776586313.2967296,Keyboard,s,Honeypot Exam Collector
+1776586313.4976346,Keyboard,t,Honeypot Exam Collector
+1776586313.925124,Keyboard,Key.space,Honeypot Exam Collector
+1776586314.8884528,Keyboard,o,Honeypot Exam Collector
+1776586315.545245,Keyboard,u,Honeypot Exam Collector
+1776586315.7701914,Keyboard,t,Honeypot Exam Collector
+1776586316.7560956,Keyboard,Key.shift,Honeypot Exam Collector
+1776586316.9889922,Keyboard,),Honeypot Exam Collector
+1776586317.7167964,Keyboard,Key.enter,Honeypot Exam Collector
+1776586318.7507434,Keyboard,q,Honeypot Exam Collector
+1776586319.015955,Keyboard,u,Honeypot Exam Collector
+1776586319.2706685,Keyboard,e,Honeypot Exam Collector
+1776586319.5628083,Keyboard,u,Honeypot Exam Collector
+1776586319.7542877,Keyboard,e,Honeypot Exam Collector
+1776586320.0290759,Keyboard,Key.space,Honeypot Exam Collector
+1776586321.252754,Keyboard,Key.shift,Honeypot Exam Collector
+1776586321.3565385,Keyboard,F,Honeypot Exam Collector
+1776586321.923217,Keyboard,I,Honeypot Exam Collector
+1776586322.2153077,Keyboard,F,Honeypot Exam Collector
+1776586322.5302916,Keyboard,O,Honeypot Exam Collector
+1776586323.36321,Keyboard,Key.shift,Honeypot Exam Collector
+1776586323.605071,Keyboard,(,Honeypot Exam Collector
+1776586325.0874536,Keyboard,f,Honeypot Exam Collector
+1776586325.3533533,Keyboard,i,Honeypot Exam Collector
+1776586325.9807072,Keyboard,r,Honeypot Exam Collector
+1776586326.192255,Keyboard,s,Honeypot Exam Collector
+1776586326.3362677,Keyboard,t,Honeypot Exam Collector
+1776586326.5779238,Keyboard,Key.space,Honeypot Exam Collector
+1776586326.8438451,Keyboard,i,Honeypot Exam Collector
+1776586327.0764718,Keyboard,n,Honeypot Exam Collector
+1776586327.237507,Keyboard,Key.space,Honeypot Exam Collector
+1776586327.908365,Keyboard,f,Honeypot Exam Collector
+1776586328.2111995,Keyboard,i,Honeypot Exam Collector
+1776586328.3756392,Keyboard,r,Honeypot Exam Collector
+1776586328.6991377,Keyboard,s,Honeypot Exam Collector
+1776586328.8529904,Keyboard,t,Honeypot Exam Collector
+1776586329.115625,Keyboard,Key.space,Honeypot Exam Collector
+1776586329.5125701,Keyboard,o,Honeypot Exam Collector
+1776586329.7441862,Keyboard,u,Honeypot Exam Collector
+1776586329.9989808,Keyboard,t,Honeypot Exam Collector
+1776586330.7976418,Keyboard,Key.shift,Honeypot Exam Collector
+1776586331.5195637,Keyboard,),Honeypot Exam Collector
+1776586333.1435492,Mouse,Button.left,Honeypot Exam Collector
+1776586340.9352593,Mouse,Button.left,three difference between stack and queue - Google Search - Google Chrome
+1776586342.311324,Mouse,Button.left,three difference between stack and queue - Google Search - Google Chrome
+1776586343.5677452,Mouse,Button.left,three difference between stack and queue - Google Search - Google Chrome
+1776586344.968108,Keyboard,Key.enter,Honeypot Exam Collector
+1776586345.2900383,Keyboard,s,Honeypot Exam Collector
+1776586345.5658164,Keyboard,t,Honeypot Exam Collector
+1776586345.7771568,Keyboard,a,Honeypot Exam Collector
+1776586346.0320776,Keyboard,c,Honeypot Exam Collector
+1776586346.4049556,Keyboard,k,Honeypot Exam Collector
+1776586347.1679158,Keyboard,-,Honeypot Exam Collector
+1776586347.5939407,Keyboard,o,Honeypot Exam Collector
+1776586347.8861632,Keyboard,n,Honeypot Exam Collector
+1776586348.2628696,Keyboard,e,Honeypot Exam Collector
+1776586348.4439416,Keyboard,Key.space,Honeypot Exam Collector
+1776586348.7492185,Keyboard,o,Honeypot Exam Collector
+1776586348.941643,Keyboard,p,Honeypot Exam Collector
+1776586349.2073355,Keyboard,e,Honeypot Exam Collector
+1776586349.43812,Keyboard,n,Honeypot Exam Collector
+1776586349.6021996,Keyboard,Key.space,Honeypot Exam Collector
+1776586349.854039,Keyboard,e,Honeypot Exam Collector
+1776586350.0584931,Keyboard,n,Honeypot Exam Collector
+1776586350.2606847,Keyboard,d,Honeypot Exam Collector
+1776586350.6858122,Keyboard,s,Honeypot Exam Collector
+1776586351.7706926,Keyboard,Key.enter,Honeypot Exam Collector
+1776586352.7841275,Keyboard,q,Honeypot Exam Collector
+1776586353.1907508,Keyboard,u,Honeypot Exam Collector
+1776586353.5056667,Keyboard,e,Honeypot Exam Collector
+1776586353.7579482,Keyboard,u,Honeypot Exam Collector
+1776586353.959047,Keyboard,e,Honeypot Exam Collector
+1776586354.822195,Keyboard,-,Honeypot Exam Collector
+1776586356.026374,Keyboard,t,Honeypot Exam Collector
+1776586356.7843947,Keyboard,w,Honeypot Exam Collector
+1776586357.0290325,Keyboard,o,Honeypot Exam Collector
+1776586357.3216372,Keyboard,Key.space,Honeypot Exam Collector
+1776586357.8483672,Keyboard,e,Honeypot Exam Collector
+1776586358.8236327,Keyboard,Key.backspace,Honeypot Exam Collector
+1776586359.189084,Keyboard,o,Honeypot Exam Collector
+1776586359.3514767,Keyboard,p,Honeypot Exam Collector
+1776586359.6072512,Keyboard,e,Honeypot Exam Collector
+1776586359.838978,Keyboard,n,Honeypot Exam Collector
+1776586360.0937052,Keyboard,Key.space,Honeypot Exam Collector
+1776586360.3046627,Keyboard,e,Honeypot Exam Collector
+1776586360.415867,Keyboard,n,Honeypot Exam Collector
+1776586360.6613572,Keyboard,d,Honeypot Exam Collector
+1776586360.873386,Keyboard,s,Honeypot Exam Collector
+1776586362.1193619,Mouse,Button.left,Honeypot Exam Collector
+1776586365.6612678,Mouse,Button.left,Honeypot Exam Collector
+1776586367.4595516,Mouse,Button.left,three difference between stack and queue - Google Search - Google Chrome
+1776586368.8153563,Mouse,Button.left,what is a linked list - Google Search - Google Chrome
+1776586370.011509,Mouse,Button.left,New Tab - Google Chrome
+1776586370.3665588,Keyboard,e,New Tab - Google Chrome
+1776586370.7320092,Keyboard,x,New Tab - Google Chrome
+1776586371.105162,Keyboard,p,New Tab - Google Chrome
+1776586371.2894123,Keyboard,l,New Tab - Google Chrome
+1776586371.551633,Keyboard,a,New Tab - Google Chrome
+1776586371.7151687,Keyboard,i,New Tab - Google Chrome
+1776586371.947329,Keyboard,n,New Tab - Google Chrome
+1776586372.1180298,Keyboard,Key.space,New Tab - Google Chrome
+1776586372.3830369,Keyboard,c,New Tab - Google Chrome
+1776586372.5846167,Keyboard,o,New Tab - Google Chrome
+1776586372.8188827,Keyboard,n,New Tab - Google Chrome
+1776586373.2153668,Keyboard,d,New Tab - Google Chrome
+1776586373.4563534,Keyboard,i,New Tab - Google Chrome
+1776586373.6712313,Keyboard,t,New Tab - Google Chrome
+1776586373.821904,Keyboard,i,New Tab - Google Chrome
+1776586373.9833689,Keyboard,o,New Tab - Google Chrome
+1776586374.2187564,Keyboard,n,New Tab - Google Chrome
+1776586374.4302974,Keyboard,a,New Tab - Google Chrome
+1776586374.5512617,Keyboard,l,New Tab - Google Chrome
+1776586374.7559109,Keyboard,Key.space,New Tab - Google Chrome
+1776586374.9372377,Keyboard,s,New Tab - Google Chrome
+1776586375.2233057,Keyboard,t,New Tab - Google Chrome
+1776586375.4055688,Keyboard,a,New Tab - Google Chrome
+1776586375.5170934,Keyboard,t,New Tab - Google Chrome
+1776586376.4807215,Keyboard,Key.enter,New Tab - Google Chrome
+1776586386.407915,Mouse,Button.left,explain conditional statements - Google Search - Google Chrome
+1776586387.4996934,Mouse,Button.left,Honeypot Exam Collector
+1776586388.201414,Keyboard,c,Honeypot Exam Collector
+1776586388.476513,Keyboard,o,Honeypot Exam Collector
+1776586389.0133157,Keyboard,n,Honeypot Exam Collector
+1776586389.2246926,Keyboard,d,Honeypot Exam Collector
+1776586389.4494987,Keyboard,i,Honeypot Exam Collector
+1776586389.7019312,Keyboard,t,Honeypot Exam Collector
+1776586389.9383314,Keyboard,i,Honeypot Exam Collector
+1776586390.1804824,Keyboard,n,Honeypot Exam Collector
+1776586390.4682674,Keyboard,a,Honeypot Exam Collector
+1776586390.629058,Keyboard,l,Honeypot Exam Collector
+1776586390.8127756,Keyboard,Key.space,Honeypot Exam Collector
+1776586391.1462948,Keyboard,s,Honeypot Exam Collector
+1776586391.4111662,Keyboard,t,Honeypot Exam Collector
+1776586391.6037397,Keyboard,a,Honeypot Exam Collector
+1776586391.753579,Keyboard,t,Honeypot Exam Collector
+1776586392.810088,Keyboard,e,Honeypot Exam Collector
+1776586393.6488879,Keyboard,m,Honeypot Exam Collector
+1776586393.9848027,Keyboard,e,Honeypot Exam Collector
+1776586394.1457021,Keyboard,n,Honeypot Exam Collector
+1776586394.4012802,Keyboard,t,Honeypot Exam Collector
+1776586394.5218549,Keyboard,Key.space,Honeypot Exam Collector
+1776586394.817285,Keyboard,i,Honeypot Exam Collector
+1776586394.9786508,Keyboard,s,Honeypot Exam Collector
+1776586395.210176,Keyboard,Key.space,Honeypot Exam Collector
+1776586395.3542833,Keyboard,a,Honeypot Exam Collector
+1776586395.5970614,Keyboard,Key.space,Honeypot Exam Collector
+1776586397.595269,Mouse,Button.left,Honeypot Exam Collector
+1776586399.0024126,Mouse,Button.left,explain conditional statements - Google Search - Google Chrome
+1776586400.4599547,Keyboard,l,Honeypot Exam Collector
+1776586400.6424732,Keyboard,o,Honeypot Exam Collector
+1776586401.0790465,Keyboard,g,Honeypot Exam Collector
+1776586401.2899008,Keyboard,i,Honeypot Exam Collector
+1776586401.625468,Keyboard,c,Honeypot Exam Collector
+1776586401.8167064,Keyboard,a,Honeypot Exam Collector
+1776586402.0209253,Keyboard,l,Honeypot Exam Collector
+1776586402.2528946,Keyboard,Key.space,Honeypot Exam Collector
+1776586402.4188566,Keyboard,r,Honeypot Exam Collector
+1776586402.5995917,Keyboard,e,Honeypot Exam Collector
+1776586402.8406036,Keyboard,l,Honeypot Exam Collector
+1776586403.065882,Keyboard,a,Honeypot Exam Collector
+1776586403.3077059,Keyboard,t,Honeypot Exam Collector
+1776586403.7443554,Keyboard,i,Honeypot Exam Collector
+1776586403.9191222,Keyboard,o,Honeypot Exam Collector
+1776586404.2405734,Keyboard,n,Honeypot Exam Collector
+1776586404.5864277,Keyboard,s,Honeypot Exam Collector
+1776586404.8081064,Keyboard,h,Honeypot Exam Collector
+1776586405.0925953,Keyboard,i,Honeypot Exam Collector
+1776586405.2537405,Keyboard,o,Honeypot Exam Collector
+1776586407.4845548,Keyboard,n,Honeypot Exam Collector
+1776586407.687355,Keyboard,Key.space,Honeypot Exam Collector
+1776586408.2742944,Keyboard,Key.backspace,Honeypot Exam Collector
+1776586408.4187584,Keyboard,Key.backspace,Honeypot Exam Collector
+1776586408.5692449,Keyboard,Key.backspace,Honeypot Exam Collector
+1776586409.3190954,Keyboard,p,Honeypot Exam Collector
+1776586409.5434322,Keyboard,Key.space,Honeypot Exam Collector
+1776586409.8252614,Keyboard,w,Honeypot Exam Collector
+1776586410.0798678,Keyboard,h,Honeypot Exam Collector
+1776586410.281031,Keyboard,e,Honeypot Exam Collector
+1776586410.5159721,Keyboard,r,Honeypot Exam Collector
+1776586410.7276218,Keyboard,e,Honeypot Exam Collector
+1776586412.7410102,Mouse,Button.left,Honeypot Exam Collector
+1776586418.2281902,Mouse,Button.left,explain conditional statements - Google Search - Google Chrome
+1776586419.524547,Keyboard,Key.space,Honeypot Exam Collector
+1776586419.727056,Keyboard,a,Honeypot Exam Collector
+1776586419.9280643,Keyboard,Key.space,Honeypot Exam Collector
+1776586420.0822785,Keyboard,s,Honeypot Exam Collector
+1776586420.334194,Keyboard,p,Honeypot Exam Collector
+1776586420.5591977,Keyboard,e,Honeypot Exam Collector
+1776586420.7909582,Keyboard,c,Honeypot Exam Collector
+1776586421.136112,Keyboard,i,Honeypot Exam Collector
+1776586421.408329,Keyboard,f,Honeypot Exam Collector
+1776586421.5530107,Keyboard,i,Honeypot Exam Collector
+1776586421.9659593,Keyboard,c,Honeypot Exam Collector
+1776586422.170263,Keyboard,Key.space,Honeypot Exam Collector
+1776586422.4623067,Keyboard,a,Honeypot Exam Collector
+1776586422.677081,Keyboard,c,Honeypot Exam Collector
+1776586422.9297657,Keyboard,t,Honeypot Exam Collector
+1776586423.25579,Keyboard,i,Honeypot Exam Collector
+1776586423.43733,Keyboard,o,Honeypot Exam Collector
+1776586423.682308,Keyboard,n,Honeypot Exam Collector
+1776586423.843195,Keyboard,Key.space,Honeypot Exam Collector
+1776586424.1290405,Keyboard,o,Honeypot Exam Collector
+1776586424.461472,Keyboard,c,Honeypot Exam Collector
+1776586424.6056151,Keyboard,c,Honeypot Exam Collector
+1776586424.9078596,Keyboard,u,Honeypot Exam Collector
+1776586425.1229227,Keyboard,r,Honeypot Exam Collector
+1776586425.424383,Keyboard,e,Honeypot Exam Collector
+1776586426.9944983,Keyboard,Key.backspace,Honeypot Exam Collector
+1776586428.2607887,Mouse,Button.left,Honeypot Exam Collector
+1776586433.1843822,Mouse,Button.left,Honeypot Exam Collector
+1776586434.900416,Mouse,Button.left,explain conditional statements - Google Search - Google Chrome
+1776586435.327315,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586435.8334503,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586435.873719,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586435.9145486,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586435.9545217,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586435.9944873,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.0348287,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.0755074,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.1188977,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.1592193,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.198894,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.239713,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.2794797,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.3198295,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.360159,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.4002743,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.4406266,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.4809089,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.5212846,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.5614698,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.604727,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.6455197,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.6858308,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.725828,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.766395,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.8072872,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.8480155,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.888341,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.9285872,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586436.968704,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586437.0088098,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586437.0490193,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586437.0925045,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586437.1325614,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586437.1730123,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586437.2136734,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586437.2538877,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586437.4152477,Keyboard,d,explain conditional statements - Google Search - Google Chrome
+1776586437.6499171,Keyboard,i,explain conditional statements - Google Search - Google Chrome
+1776586437.9326732,Keyboard,f,explain conditional statements - Google Search - Google Chrome
+1776586438.0429137,Keyboard,f,explain conditional statements - Google Search - Google Chrome
+1776586438.2081695,Keyboard,e,explain conditional statements - Google Search - Google Chrome
+1776586438.4095714,Keyboard,r,explain conditional statements - Google Search - Google Chrome
+1776586438.605328,Keyboard,e,explain conditional statements - Google Search - Google Chrome
+1776586438.8580241,Keyboard,n,explain conditional statements - Google Search - Google Chrome
+1776586439.1327412,Keyboard,c,explain conditional statements - Google Search - Google Chrome
+1776586439.3345354,Keyboard,e,explain conditional statements - Google Search - Google Chrome
+1776586439.4760048,Keyboard,Key.space,explain conditional statements - Google Search - Google Chrome
+1776586439.690659,Keyboard,n,explain conditional statements - Google Search - Google Chrome
+1776586440.338923,Keyboard,Key.backspace,explain conditional statements - Google Search - Google Chrome
+1776586440.7041605,Keyboard,b,explain conditional statements - Google Search - Google Chrome
+1776586441.0372024,Keyboard,e,explain conditional statements - Google Search - Google Chrome
+1776586441.6284785,Keyboard,t,explain conditional statements - Google Search - Google Chrome
+1776586441.8607094,Keyboard,w,explain conditional statements - Google Search - Google Chrome
+1776586442.1018949,Keyboard,e,explain conditional statements - Google Search - Google Chrome
+1776586442.2358813,Keyboard,e,explain conditional statements - Google Search - Google Chrome
+1776586442.4471889,Keyboard,n,explain conditional statements - Google Search - Google Chrome
+1776586442.6413567,Keyboard,Key.space,explain conditional statements - Google Search - Google Chrome
+1776586444.316187,Mouse,Button.left,explain conditional statements - Google Search - Google Chrome
+1776586445.3254452,Mouse,Button.left,Honeypot Exam Collector
+1776586446.7172956,Keyboard,i,explain conditional statements - Google Search - Google Chrome
+1776586447.0497634,Keyboard,f,explain conditional statements - Google Search - Google Chrome
+1776586447.2745895,Keyboard,Key.space,explain conditional statements - Google Search - Google Chrome
+1776586447.5358057,Keyboard,e,explain conditional statements - Google Search - Google Chrome
+1776586447.761768,Keyboard,l,explain conditional statements - Google Search - Google Chrome
+1776586447.9438875,Keyboard,s,explain conditional statements - Google Search - Google Chrome
+1776586449.6180947,Mouse,Button.left,explain conditional statements - Google Search - Google Chrome
+1776586453.430147,Mouse,Button.left,difference between if else and switch statement - Google Search - Google Chrome
+1776586462.573851,Mouse,Button.left,difference between if else and switch statement - Google Search - Google Chrome
+1776586465.2710698,Keyboard,i,Honeypot Exam Collector
+1776586465.596778,Keyboard,f,Honeypot Exam Collector
+1776586465.800687,Keyboard,Key.space,Honeypot Exam Collector
+1776586466.0337536,Keyboard,e,Honeypot Exam Collector
+1776586466.245013,Keyboard,l,Honeypot Exam Collector
+1776586466.3892357,Keyboard,s,Honeypot Exam Collector
+1776586466.6005116,Keyboard,e,Honeypot Exam Collector
+1776586467.097192,Keyboard,-,Honeypot Exam Collector
+1776586467.3918707,Keyboard,Key.space,Honeypot Exam Collector
+1776586467.674173,Keyboard,b,Honeypot Exam Collector
+1776586468.0004485,Keyboard,o,Honeypot Exam Collector
+1776586468.133151,Keyboard,o,Honeypot Exam Collector
+1776586468.2733037,Keyboard,l,Honeypot Exam Collector
+1776586468.407227,Keyboard,e,Honeypot Exam Collector
+1776586468.6992013,Keyboard,a,Honeypot Exam Collector
+1776586468.933849,Keyboard,n,Honeypot Exam Collector
+1776586470.76723,Mouse,Button.left,Honeypot Exam Collector
+1776586472.2132516,Mouse,Button.left,difference between if else and switch statement - Google Search - Google Chrome
+1776586473.296167,Keyboard,Key.space,Honeypot Exam Collector
+1776586473.560518,Keyboard,e,Honeypot Exam Collector
+1776586473.9763808,Keyboard,x,Honeypot Exam Collector
+1776586474.2986653,Keyboard,p,Honeypot Exam Collector
+1776586474.5738652,Keyboard,r,Honeypot Exam Collector
+1776586474.7654324,Keyboard,e,Honeypot Exam Collector
+1776586475.0601697,Keyboard,s,Honeypot Exam Collector
+1776586475.1910098,Keyboard,s,Honeypot Exam Collector
+1776586475.365536,Keyboard,i,Honeypot Exam Collector
+1776586475.526624,Keyboard,o,Honeypot Exam Collector
+1776586475.7378457,Keyboard,n,Honeypot Exam Collector
+1776586476.215234,Keyboard,Key.enter,Honeypot Exam Collector
+1776586477.1586509,Keyboard,w,Honeypot Exam Collector
+1776586477.73522,Keyboard,Key.backspace,Honeypot Exam Collector
+1776586478.0118108,Keyboard,s,Honeypot Exam Collector
+1776586478.1837976,Keyboard,w,Honeypot Exam Collector
+1776586478.519118,Keyboard,i,Honeypot Exam Collector
+1776586478.8609002,Keyboard,t,Honeypot Exam Collector
+1776586479.1372657,Keyboard,c,Honeypot Exam Collector
+1776586479.473782,Keyboard,h,Honeypot Exam Collector
+1776586479.6850266,Keyboard,Key.space,Honeypot Exam Collector
+1776586479.8995059,Keyboard,s,Honeypot Exam Collector
+1776586480.1610928,Keyboard,t,Honeypot Exam Collector
+1776586480.322848,Keyboard,a,Honeypot Exam Collector
+1776586480.5874019,Keyboard,t,Honeypot Exam Collector
+1776586480.7588701,Keyboard,e,Honeypot Exam Collector
+1776586481.0435538,Keyboard,m,Honeypot Exam Collector
+1776586481.2159693,Keyboard,e,Honeypot Exam Collector
+1776586481.387179,Keyboard,n,Honeypot Exam Collector
+1776586481.573737,Keyboard,t,Honeypot Exam Collector
+1776586482.2306545,Keyboard,-,Honeypot Exam Collector
+1776586483.5454996,Mouse,Button.left,Honeypot Exam Collector
+1776586485.3145752,Mouse,Button.left,difference between if else and switch statement - Google Search - Google Chrome
+1776586486.8304667,Keyboard,e,Honeypot Exam Collector
+1776586487.1255562,Keyboard,x,Honeypot Exam Collector
+1776586487.5615158,Keyboard,p,Honeypot Exam Collector
+1776586487.7430923,Keyboard,r,Honeypot Exam Collector
+1776586487.9342656,Keyboard,e,Honeypot Exam Collector
+1776586488.19071,Keyboard,s,Honeypot Exam Collector
+1776586488.3522296,Keyboard,s,Honeypot Exam Collector
+1776586488.486433,Keyboard,u,Honeypot Exam Collector
+1776586489.551428,Keyboard,Key.backspace,Honeypot Exam Collector
+1776586489.8641372,Keyboard,i,Honeypot Exam Collector
+1776586490.0183299,Keyboard,o,Honeypot Exam Collector
+1776586490.2608962,Keyboard,n,Honeypot Exam Collector
+1776586490.4114013,Keyboard,Key.space,Honeypot Exam Collector
+1776586490.615868,Keyboard,f,Honeypot Exam Collector
+1776586490.8378475,Keyboard,o,Honeypot Exam Collector
+1776586491.002638,Keyboard,r,Honeypot Exam Collector
+1776586491.2043633,Keyboard,Key.space,Honeypot Exam Collector
+1776586491.609766,Keyboard,q,Honeypot Exam Collector
+1776586491.8314123,Keyboard,u,Honeypot Exam Collector
+1776586492.006279,Keyboard,a,Honeypot Exam Collector
+1776586492.298735,Keyboard,l,Honeypot Exam Collector
+1776586492.5334735,Keyboard,i,Honeypot Exam Collector
+1776586492.805694,Keyboard,t,Honeypot Exam Collector
+1776586492.9896693,Keyboard,y,Honeypot Exam Collector
+1776586496.0191963,Mouse,Button.left,Honeypot Exam Collector
+1776586505.759527,Mouse,Button.left,difference between if else and switch statement - Google Search - Google Chrome
+1776586507.6639984,Keyboard,Key.enter,Honeypot Exam Collector
+1776586508.6883252,Keyboard,i,Honeypot Exam Collector
+1776586509.1456616,Keyboard,f,Honeypot Exam Collector
+1776586509.3480394,Keyboard,Key.space,Honeypot Exam Collector
+1776586509.6138847,Keyboard,e,Honeypot Exam Collector
+1776586509.9462364,Keyboard,l,Honeypot Exam Collector
+1776586510.2310092,Keyboard,s,Honeypot Exam Collector
+1776586510.4628172,Keyboard,e,Honeypot Exam Collector
+1776586510.6571078,Keyboard,Key.space,Honeypot Exam Collector
+1776586511.0701282,Keyboard,e,Honeypot Exam Collector
+1776586511.3571928,Keyboard,v,Honeypot Exam Collector
+1776586511.5592663,Keyboard,a,Honeypot Exam Collector
+1776586512.7912152,Keyboard,l,Honeypot Exam Collector
+1776586513.0531583,Keyboard,u,Honeypot Exam Collector
+1776586513.2777255,Keyboard,a,Honeypot Exam Collector
+1776586513.4891312,Keyboard,t,Honeypot Exam Collector
+1776586513.8249762,Keyboard,i,Honeypot Exam Collector
+1776586514.0369294,Keyboard,o,Honeypot Exam Collector
+1776586514.3210676,Keyboard,n,Honeypot Exam Collector
+1776586515.0395148,Keyboard,-,Honeypot Exam Collector
+1776586516.4785895,Mouse,Button.left,Honeypot Exam Collector
+1776586518.4436843,Mouse,Button.left,difference between if else and switch statement - Google Search - Google Chrome
+1776586520.5926585,Keyboard,Key.shift,Honeypot Exam Collector
+1776586521.232857,Keyboard,O,Honeypot Exam Collector
+1776586523.4065142,Keyboard,9,Honeypot Exam Collector
+1776586524.3289964,Keyboard,Key.backspace,Honeypot Exam Collector
+1776586524.4998534,Keyboard,Key.shift,Honeypot Exam Collector
+1776586524.7149115,Keyboard,(,Honeypot Exam Collector
+1776586526.1114135,Keyboard,n,Honeypot Exam Collector
+1776586526.3158486,Keyboard,Key.shift,Honeypot Exam Collector
+1776586526.507751,Keyboard,),Honeypot Exam Collector
+1776586527.1546354,Keyboard,Key.enter,Honeypot Exam Collector
+1776586529.0461142,Keyboard,s,Honeypot Exam Collector
+1776586529.2603467,Keyboard,w,Honeypot Exam Collector
+1776586529.4627404,Keyboard,i,Honeypot Exam Collector
+1776586530.0099704,Keyboard,t,Honeypot Exam Collector
+1776586530.2950237,Keyboard,c,Honeypot Exam Collector
+1776586530.5068727,Keyboard,h,Honeypot Exam Collector
+1776586530.6778758,Keyboard,Key.space,Honeypot Exam Collector
+1776586531.0430183,Keyboard,s,Honeypot Exam Collector
+1776586531.4589012,Keyboard,t,Honeypot Exam Collector
+1776586531.5907457,Keyboard,a,Honeypot Exam Collector
+1776586531.7220745,Keyboard,t,Honeypot Exam Collector
+1776586531.936779,Keyboard,e,Honeypot Exam Collector
+1776586532.2084086,Keyboard,m,Honeypot Exam Collector
+1776586532.3421602,Keyboard,e,Honeypot Exam Collector
+1776586532.4732487,Keyboard,n,Honeypot Exam Collector
+1776586532.685159,Keyboard,t,Honeypot Exam Collector
+1776586533.9123824,Keyboard,-,Honeypot Exam Collector
+1776586535.4614682,Keyboard,Key.shift,Honeypot Exam Collector
+1776586535.6427906,Keyboard,O,Honeypot Exam Collector
+1776586536.809566,Keyboard,Key.shift,Honeypot Exam Collector
+1776586536.8902998,Keyboard,(,Honeypot Exam Collector
+1776586537.6486852,Keyboard,1,Honeypot Exam Collector
+1776586538.0141687,Keyboard,Key.shift,Honeypot Exam Collector
+1776586538.215719,Keyboard,),Honeypot Exam Collector
+1776586539.663804,Mouse,Button.left,Honeypot Exam Collector
+1776586541.9966927,Mouse,Button.left,Honeypot Exam Collector
+1776586543.9614348,Mouse,Button.left,difference between if else and switch statement - Google Search - Google Chrome
+1776586545.143997,Keyboard,w,difference between if else and switch statement - Google Search - Google Chrome
+1776586545.4489686,Keyboard,h,difference between if else and switch statement - Google Search - Google Chrome
+1776586545.6509306,Keyboard,a,difference between if else and switch statement - Google Search - Google Chrome
+1776586545.822439,Keyboard,t,difference between if else and switch statement - Google Search - Google Chrome
+1776586546.0469186,Keyboard,Key.space,difference between if else and switch statement - Google Search - Google Chrome
+1776586546.339501,Keyboard,i,difference between if else and switch statement - Google Search - Google Chrome
+1776586546.4641438,Keyboard,s,difference between if else and switch statement - Google Search - Google Chrome
+1776586546.6755917,Keyboard,Key.space,difference between if else and switch statement - Google Search - Google Chrome
+1776586546.9511144,Keyboard,a,difference between if else and switch statement - Google Search - Google Chrome
+1776586547.1524599,Keyboard,Key.space,difference between if else and switch statement - Google Search - Google Chrome
+1776586547.4293804,Keyboard,l,difference between if else and switch statement - Google Search - Google Chrome
+1776586547.6098394,Keyboard,o,difference between if else and switch statement - Google Search - Google Chrome
+1776586547.7409072,Keyboard,o,difference between if else and switch statement - Google Search - Google Chrome
+1776586547.885055,Keyboard,p,difference between if else and switch statement - Google Search - Google Chrome
+1776586548.2579575,Keyboard,Key.enter,difference between if else and switch statement - Google Search - Google Chrome
+1776586555.126333,Mouse,Button.left,what is a loop - Google Search - Google Chrome
+1776586556.873356,Keyboard,l,Honeypot Exam Collector
+1776586557.0583563,Keyboard,o,Honeypot Exam Collector
+1776586557.7465293,Keyboard,o,Honeypot Exam Collector
+1776586558.1736887,Keyboard,p,Honeypot Exam Collector
+1776586558.761469,Keyboard,Key.space,Honeypot Exam Collector
+1776586559.046591,Keyboard,i,Honeypot Exam Collector
+1776586559.2986503,Keyboard,s,Honeypot Exam Collector
+1776586559.472728,Keyboard,Key.space,Honeypot Exam Collector
+1776586559.6550813,Keyboard,a,Honeypot Exam Collector
+1776586559.8160574,Keyboard,Key.space,Honeypot Exam Collector
+1776586559.9800892,Keyboard,s,Honeypot Exam Collector
+1776586560.242485,Keyboard,t,Honeypot Exam Collector
+1776586560.4769452,Keyboard,r,Honeypot Exam Collector
+1776586560.7600002,Keyboard,u,Honeypot Exam Collector
+1776586561.0150645,Keyboard,c,Honeypot Exam Collector
+1776586561.427514,Keyboard,t,Honeypot Exam Collector
+1776586561.651951,Keyboard,u,Honeypot Exam Collector
+1776586561.84314,Keyboard,r,Honeypot Exam Collector
+1776586562.017541,Keyboard,e,Honeypot Exam Collector
+1776586562.14833,Keyboard,Key.space,Honeypot Exam Collector
+1776586562.4002225,Keyboard,t,Honeypot Exam Collector
+1776586562.5543885,Keyboard,h,Honeypot Exam Collector
+1776586562.7556114,Keyboard,e,Honeypot Exam Collector
+1776586562.916686,Keyboard,Key.space,Honeypot Exam Collector
+1776586563.1313276,Keyboard,r,Honeypot Exam Collector
+1776586563.3226378,Keyboard,e,Honeypot Exam Collector
+1776586563.6078243,Keyboard,p,Honeypot Exam Collector
+1776586563.8693652,Keyboard,e,Honeypot Exam Collector
+1776586564.1947415,Keyboard,a,Honeypot Exam Collector
+1776586564.3766072,Keyboard,t,Honeypot Exam Collector
+1776586564.6014314,Keyboard,Key.space,Honeypot Exam Collector
+1776586564.8232462,Keyboard,a,Honeypot Exam Collector
+1776586565.0278962,Keyboard,Key.space,Honeypot Exam Collector
+1776586565.1990597,Keyboard,s,Honeypot Exam Collector
+1776586565.6964293,Keyboard,e,Honeypot Exam Collector
+1776586566.2537239,Keyboard,q,Honeypot Exam Collector
+1776586566.5594268,Keyboard,u,Honeypot Exam Collector
+1776586566.8314059,Keyboard,e,Honeypot Exam Collector
+1776586567.0560226,Keyboard,n,Honeypot Exam Collector
+1776586567.358062,Keyboard,c,Honeypot Exam Collector
+1776586567.5224092,Keyboard,e,Honeypot Exam Collector
+1776586567.6730168,Keyboard,Key.space,Honeypot Exam Collector
+1776586568.1800456,Keyboard,o,Honeypot Exam Collector
+1776586568.636769,Keyboard,f,Honeypot Exam Collector
+1776586568.8394039,Keyboard,Key.space,Honeypot Exam Collector
+1776586569.144612,Keyboard,i,Honeypot Exam Collector
+1776586569.3673863,Keyboard,n,Honeypot Exam Collector
+1776586569.5931044,Keyboard,s,Honeypot Exam Collector
+1776586569.8749573,Keyboard,t,Honeypot Exam Collector
+1776586570.261652,Keyboard,r,Honeypot Exam Collector
+1776586570.3730018,Keyboard,u,Honeypot Exam Collector
+1776586570.7077954,Keyboard,c,Honeypot Exam Collector
+1776586571.043326,Keyboard,t,Honeypot Exam Collector
+1776586571.2949698,Keyboard,i,Honeypot Exam Collector
+1776586571.4963229,Keyboard,o,Honeypot Exam Collector
+1776586571.812498,Keyboard,n,Honeypot Exam Collector
+1776586573.3347404,Mouse,Button.left,Honeypot Exam Collector

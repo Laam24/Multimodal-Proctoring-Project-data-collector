@@ -1,0 +1,10 @@
+1.problem domain
+2.image accqusition
+3image enhancement
+image restoration
+color image processing
+compression
+morphological procesing
+segmentation
+presentation
+recognition

@@ -1,0 +1,1 @@
+The core difference between a tuple and a list in Python is that lists are mutable (changeable), while tuples are immutable (unchangeable).

@@ -1,0 +1,2 @@
+fifo is the first item added is the first one removed
+and lifo is the last item added is the first to be removed

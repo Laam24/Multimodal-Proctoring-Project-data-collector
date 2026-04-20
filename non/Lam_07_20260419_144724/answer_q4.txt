@@ -1,0 +1,1 @@
+the difference between if-else and switch statemnts lie clearly in the syntax. in case of if-else during multiple conditions, the syntax is very large and the use of else if is used very oftern. whereas this syntax issue is resolved with the use of switch.

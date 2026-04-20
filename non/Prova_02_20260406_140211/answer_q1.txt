@@ -1,0 +1,1 @@
+digital image is the representation of two dimensional image of finite sets ,called picture, pixels

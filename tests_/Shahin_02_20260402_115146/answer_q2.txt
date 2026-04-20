@@ -1,0 +1,2 @@
+clustering is one kind of group with similarity 
+clustring is used in unstructred data

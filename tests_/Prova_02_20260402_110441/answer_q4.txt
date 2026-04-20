@@ -1,0 +1,1 @@
+In programming, the primary difference between a variable and an array is the quantity of data they can store and how that data is structured in memory.

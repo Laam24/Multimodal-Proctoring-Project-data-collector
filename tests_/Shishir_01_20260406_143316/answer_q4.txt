@@ -1,0 +1,32 @@
+1. DBMS (Database Management System)
+Definition: A software system that allows users to define, create, maintain, and control access to a database.
+Purpose: It acts as an interface between the user and the data, enabling efficient storage, retrieval, and manipulation. 
+Dataversity
+Dataversity
+ +4
+2. Entity
+Definition: A real-world object, place, or concept that can be identified and about which data is stored.
+Example: In a school system, "Student," "Teacher," or "Course" are entities.
+Entity Set: A collection of similar entities, such as a table containing all students. 
+GeeksforGeeks
+GeeksforGeeks
+ +2
+3. Attribute
+Definition: A property or characteristic that describes an entity.
+Example: For a "Student" entity, attributes include StudentID, Name, Age, and Email.
+Types of Attributes:
+Simple: Atomic, cannot be subdivided (e.g., Gender).
+Composite: Can be divided into sub-parts (e.g., Name splits into First Name, Last Name).
+Single-valued: Holds one value (e.g., Date of Birth).
+Multi-valued: Holds multiple values (e.g., Phone Number).
+Key Attribute: Uniquely identifies an entity (e.g., Roll Number). 
+GeeksforGeeks
+GeeksforGeeks
+ +5
+4. Relation (Relationship)
+Definition: A connection or link between two or more entities.
+Example: A "Student" (entity) enrolls in a "Course" (entity); the "enrolls in" is the relationship.
+Relation in RDBMS: Also refers to a table consisting of rows (tuples) and columns (attributes).
+Tuple (Row): A single record in the table representing one entity instance (e.g., a specific student's record).
+Degree: The number of attributes (columns) in a relation.
+Cardinality: The number of tuples (rows) in a relation.

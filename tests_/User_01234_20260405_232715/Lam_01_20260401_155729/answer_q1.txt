@@ -1,0 +1,3 @@
+THe primary differnce between a list and a tuple are as follows:
+List → mutable (can be changed)
+Tuple → immutable (cannot be changed)

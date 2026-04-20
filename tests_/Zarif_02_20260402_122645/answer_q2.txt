@@ -1,0 +1,2 @@
+Clustering grouping similar data points
+clustering appiles both structured and unstructured data

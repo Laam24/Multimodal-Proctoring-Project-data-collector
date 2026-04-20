@@ -1,0 +1,2 @@
+printf used to show output 
+scanf used to take input

@@ -1,0 +1,2 @@
+class is a conceptual blueprint
+object is a concrete instance of that blueprint

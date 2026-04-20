@@ -1,0 +1,4 @@
+stack LIFO( last in first out)
+queue FIFO(first in first out)
+stack-one open ends
+queue-two open ends

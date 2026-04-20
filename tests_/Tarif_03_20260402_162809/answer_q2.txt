@@ -1,0 +1,1 @@
+Merge sort divides all the variables into smaller chunks then compares the chunks and then merges them together to get the values in ascending or descending order. Quick just checks for the quickest path to the solution, the time complexity is greater for quick sort

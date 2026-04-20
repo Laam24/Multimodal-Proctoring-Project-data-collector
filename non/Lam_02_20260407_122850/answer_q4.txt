@@ -1,0 +1,1 @@
+a process is an independent running program with its own memory space while a thread is a lightweight unit of execution within a process

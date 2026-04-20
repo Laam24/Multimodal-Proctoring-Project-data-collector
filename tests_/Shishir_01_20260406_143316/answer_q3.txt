@@ -1,0 +1,6 @@
+Key Differences and Impacts:
+Inventory Flow: FIFO sells oldest stock first (ideal for perishables). LIFO sells newest stock first.
+Inflation Impact: During inflation, FIFO leads to higher net income (lower COGS), while LIFO leads to lower net income (higher COGS).
+Balance Sheet: FIFO results in higher ending inventory value, reflecting current market prices better.
+Taxes: LIFO provides tax advantages during rising prices (lower taxes).
+Compliance: FIFO is approved by both U.S. GAAP and IFRS. LIFO is only allowed under GAAP.

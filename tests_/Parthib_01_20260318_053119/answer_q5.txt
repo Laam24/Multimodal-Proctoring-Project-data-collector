@@ -1,0 +1,1 @@
+A foreign key refers to Primary key in another table

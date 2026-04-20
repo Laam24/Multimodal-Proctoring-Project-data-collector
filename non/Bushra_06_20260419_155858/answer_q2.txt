@@ -1,0 +1,1 @@
+a visual method use to simplify boolian expression by grouping

@@ -1,0 +1,3 @@
+a conditional statement checks a condition and
+1 if the condition is true:one back of code runs
+2.if the condition is false another blck runs

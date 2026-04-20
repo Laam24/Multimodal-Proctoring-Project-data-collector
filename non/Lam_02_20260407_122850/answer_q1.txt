@@ -1,0 +1,3 @@
+THe difference between classification and regression is given below:
+classification - categorical
+regression continuous

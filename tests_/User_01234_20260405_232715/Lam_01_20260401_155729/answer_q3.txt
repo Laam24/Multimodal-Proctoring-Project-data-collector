@@ -1,0 +1,5 @@
+in the original 1983 specification for the TCP protocol, the exact hexadecimal value of the 4 bit 'Header length' field for a standard 20-byte TCP header is measured in 32-bit words.
+
+A standard 20-byte header = 5 words → binary: 0101 → hexadecimal:
+
+0x5

@@ -1,0 +1,1 @@
+k map is a visual ,grid based tool used to simplify boolean algebra expression

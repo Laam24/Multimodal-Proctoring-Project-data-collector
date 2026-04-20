@@ -1,0 +1,4 @@
+Binary Search works by:
+Dividing yhe array into two halves each step 
+Ignoring one half completely
+So the number of elements reducing like n-n/2-n/4-n/8=...

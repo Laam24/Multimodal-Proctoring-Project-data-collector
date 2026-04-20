@@ -1,0 +1,1 @@
+segmentation in digital image processing is the process of dividing an image into meaningdul parts or regions

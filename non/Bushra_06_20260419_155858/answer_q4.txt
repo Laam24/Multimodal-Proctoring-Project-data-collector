@@ -1,0 +1,5 @@
+volume: large amount of data
+velocity: fast data organization
+varity:diffierent type of data
+veracity: data accuracy and trust
+value: useful insight from data

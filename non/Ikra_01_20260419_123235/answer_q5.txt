@@ -1,0 +1,1 @@
+a loop executes a block of code again and gain while a condition is true

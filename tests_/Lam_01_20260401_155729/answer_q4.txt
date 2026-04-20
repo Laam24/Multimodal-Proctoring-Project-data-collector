@@ -1,0 +1,1 @@
+In object oriented programming, a constructor is a special method that is automatically called when an instance of a class is created. the primary purpose is to initialise the object's state and prepare it for use.

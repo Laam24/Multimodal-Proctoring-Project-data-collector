@@ -1,0 +1,1 @@
+Data mining is the process of analyzing large, complex datasets to discover hidden patterns, correlations, and insights using machine learning, statistics, and database systems. It transforms raw data into actionable knowledge to predict trends, automate decisions, and improve business outcome.

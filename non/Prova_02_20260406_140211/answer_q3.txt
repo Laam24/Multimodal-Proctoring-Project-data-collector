@@ -1,0 +1,2 @@
+fifo- first in first out - first item added ,first one removed
+kifo- last in first out- last item added, first one removed

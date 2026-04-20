@@ -1,0 +1,4 @@
+dbms is database maangement system
+entity is something
+relation is another thibg
+attribute is idk what

@@ -1,0 +1,1 @@
+loop: runs a code for again and again in fixed time

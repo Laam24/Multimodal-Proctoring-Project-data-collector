@@ -1,0 +1,349 @@
+Timestamp,Event_Type,Key_Button,Active_Window
+1775546399.1439543,Mouse,Button.left,Honeypot Exam Collector
+1775546402.7622173,Mouse,Button.left,Honeypot Exam Collector
+1775546405.8426378,Mouse,Button.left,Google Chrome
+1775546409.3996913,Mouse,Button.left,New Tab - Google Chrome
+1775546410.1815329,Keyboard,c,New Tab - Google Chrome
+1775546410.5507894,Keyboard,h,New Tab - Google Chrome
+1775546411.5168781,Keyboard,a,New Tab - Google Chrome
+1775546412.054239,Keyboard,t,New Tab - Google Chrome
+1775546412.2756345,Keyboard,g,New Tab - Google Chrome
+1775546412.939361,Keyboard,p,New Tab - Google Chrome
+1775546413.6585422,Keyboard,t,New Tab - Google Chrome
+1775546415.251217,Keyboard,Key.shift_r,New Tab - Google Chrome
+1775546415.7831523,Keyboard,Key.enter,New Tab - Google Chrome
+1775546418.7335203,Mouse,Button.left,chatgpt - Google Search - Google Chrome
+1775546419.395592,Mouse,Button.left,chatgpt - Google Search - Google Chrome
+1775546420.2052996,Mouse,Button.left,chatgpt - Google Search - Google Chrome
+1775546422.9723303,Mouse,Button.left,ChatGPT - Google Chrome
+1775546427.613739,Mouse,Button.left,Honeypot Exam Collector
+1775546429.2437584,Keyboard,e,ChatGPT - Google Chrome
+1775546429.8750517,Keyboard,x,ChatGPT - Google Chrome
+1775546430.8279173,Keyboard,p,ChatGPT - Google Chrome
+1775546431.0296497,Keyboard,l,ChatGPT - Google Chrome
+1775546431.7482305,Keyboard,a,ChatGPT - Google Chrome
+1775546432.021006,Keyboard,i,ChatGPT - Google Chrome
+1775546432.520974,Keyboard,n,ChatGPT - Google Chrome
+1775546432.7413433,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546432.9629502,Keyboard,b,ChatGPT - Google Chrome
+1775546433.4738438,Keyboard,l,ChatGPT - Google Chrome
+1775546433.6145198,Keyboard,a,ChatGPT - Google Chrome
+1775546433.8332734,Keyboard,s,ChatGPT - Google Chrome
+1775546434.2535439,Keyboard,t,ChatGPT - Google Chrome
+1775546434.5146918,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546435.0774748,Keyboard,i,ChatGPT - Google Chrome
+1775546435.5070202,Keyboard,n,ChatGPT - Google Chrome
+1775546435.8978882,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546436.5604324,Keyboard,b,ChatGPT - Google Chrome
+1775546437.0407636,Keyboard,i,ChatGPT - Google Chrome
+1775546437.2392216,Keyboard,o,ChatGPT - Google Chrome
+1775546437.7028015,Keyboard,i,ChatGPT - Google Chrome
+1775546438.0228395,Keyboard,n,ChatGPT - Google Chrome
+1775546438.6851323,Keyboard,f,ChatGPT - Google Chrome
+1775546439.5057335,Keyboard,o,ChatGPT - Google Chrome
+1775546439.7958019,Keyboard,r,ChatGPT - Google Chrome
+1775546440.0475938,Keyboard,m,ChatGPT - Google Chrome
+1775546440.376463,Keyboard,a,ChatGPT - Google Chrome
+1775546440.8800566,Keyboard,t,ChatGPT - Google Chrome
+1775546441.4111776,Keyboard,i,ChatGPT - Google Chrome
+1775546441.9213107,Keyboard,c,ChatGPT - Google Chrome
+1775546442.193748,Keyboard,s,ChatGPT - Google Chrome
+1775546443.4955282,Keyboard,Key.enter,ChatGPT - Google Chrome
+1775546462.9994607,Mouse,Button.left,ChatGPT - Google Chrome
+1775546463.8677013,Keyboard,i,ChatGPT - Google Chrome
+1775546464.0973353,Keyboard,n,ChatGPT - Google Chrome
+1775546464.298464,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546464.4975595,Keyboard,s,ChatGPT - Google Chrome
+1775546464.8394976,Keyboard,h,ChatGPT - Google Chrome
+1775546465.2812889,Keyboard,o,ChatGPT - Google Chrome
+1775546465.5398948,Keyboard,e,ChatGPT - Google Chrome
+1775546466.4035625,Keyboard,Key.backspace,ChatGPT - Google Chrome
+1775546466.743,Keyboard,r,ChatGPT - Google Chrome
+1775546466.9716694,Keyboard,t,ChatGPT - Google Chrome
+1775546467.2345874,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546467.5137014,Keyboard,f,ChatGPT - Google Chrome
+1775546467.9539886,Keyboard,o,ChatGPT - Google Chrome
+1775546468.346485,Keyboard,r,ChatGPT - Google Chrome
+1775546468.8068073,Keyboard,m,ChatGPT - Google Chrome
+1775546470.0654655,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546470.5958893,Keyboard,j,ChatGPT - Google Chrome
+1775546470.786713,Keyboard,u,ChatGPT - Google Chrome
+1775546471.047499,Keyboard,s,ChatGPT - Google Chrome
+1775546471.2792866,Keyboard,t,ChatGPT - Google Chrome
+1775546471.5277996,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546472.3610532,Keyboard,5,ChatGPT - Google Chrome
+1775546472.6603858,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546473.1836348,Keyboard,l,ChatGPT - Google Chrome
+1775546473.3841672,Keyboard,i,ChatGPT - Google Chrome
+1775546473.643391,Keyboard,n,ChatGPT - Google Chrome
+1775546473.992938,Keyboard,e,ChatGPT - Google Chrome
+1775546474.2246766,Keyboard,s,ChatGPT - Google Chrome
+1775546475.0039241,Keyboard,Key.enter,ChatGPT - Google Chrome
+1775546479.9610858,Mouse,Button.left,ChatGPT - Google Chrome
+1775546481.2635334,Mouse,Button.right,ChatGPT - Google Chrome
+1775546485.2257736,Mouse,Button.left,ChatGPT - Google Chrome
+1775546486.5717187,Mouse,Button.left,ChatGPT - Google Chrome
+1775546489.096069,Keyboard,Key.ctrl_l,ChatGPT - Google Chrome
+1775546489.5502188,Keyboard,,ChatGPT - Google Chrome
+1775546491.0288389,Mouse,Button.left,ChatGPT - Google Chrome
+1775546492.8867948,Keyboard,Key.ctrl_l,Honeypot Exam Collector
+1775546493.3794322,Keyboard,,Honeypot Exam Collector
+1775546494.8754296,Mouse,Button.left,Honeypot Exam Collector
+1775546495.2872841,Keyboard,Key.ctrl_l,Honeypot Exam Collector
+1775546495.7673438,Keyboard,,Honeypot Exam Collector
+1775546496.8929474,Mouse,Button.left,Honeypot Exam Collector
+1775546506.0060644,Mouse,Button.left,Honeypot Exam Collector
+1775546507.5684896,Mouse,Button.left,ChatGPT - Google Chrome
+1775546508.1278732,Keyboard,d,ChatGPT - Google Chrome
+1775546508.5072773,Keyboard,i,ChatGPT - Google Chrome
+1775546508.9275,Keyboard,f,ChatGPT - Google Chrome
+1775546509.0989006,Keyboard,f,ChatGPT - Google Chrome
+1775546509.2893276,Keyboard,e,ChatGPT - Google Chrome
+1775546509.4910777,Keyboard,r,ChatGPT - Google Chrome
+1775546509.6622126,Keyboard,e,ChatGPT - Google Chrome
+1775546510.0827036,Keyboard,n,ChatGPT - Google Chrome
+1775546510.4127827,Keyboard,c,ChatGPT - Google Chrome
+1775546510.5848773,Keyboard,e,ChatGPT - Google Chrome
+1775546510.8338048,Keyboard,s,ChatGPT - Google Chrome
+1775546511.03498,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546511.263984,Keyboard,b,ChatGPT - Google Chrome
+1775546511.4974,Keyboard,e,ChatGPT - Google Chrome
+1775546511.7768688,Keyboard,t,ChatGPT - Google Chrome
+1775546512.5000904,Keyboard,w,ChatGPT - Google Chrome
+1775546512.8595421,Keyboard,e,ChatGPT - Google Chrome
+1775546513.0605488,Keyboard,e,ChatGPT - Google Chrome
+1775546513.603565,Keyboard,n,ChatGPT - Google Chrome
+1775546513.8522367,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546514.3434887,Keyboard,g,ChatGPT - Google Chrome
+1775546514.8648627,Keyboard,l,ChatGPT - Google Chrome
+1775546515.035454,Keyboard,o,ChatGPT - Google Chrome
+1775546515.466547,Keyboard,b,ChatGPT - Google Chrome
+1775546515.8065434,Keyboard,a,ChatGPT - Google Chrome
+1775546516.1590223,Keyboard,l,ChatGPT - Google Chrome
+1775546516.6904616,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546516.959284,Keyboard,a,ChatGPT - Google Chrome
+1775546517.3191092,Keyboard,l,ChatGPT - Google Chrome
+1775546517.4810734,Keyboard,l,ChatGPT - Google Chrome
+1775546517.7429085,Keyboard,i,ChatGPT - Google Chrome
+1775546518.112184,Keyboard,n,ChatGPT - Google Chrome
+1775546518.432766,Keyboard,g,ChatGPT - Google Chrome
+1775546518.8938816,Keyboard,m,ChatGPT - Google Chrome
+1775546519.195439,Keyboard,e,ChatGPT - Google Chrome
+1775546519.637347,Keyboard,n,ChatGPT - Google Chrome
+1775546519.986015,Keyboard,t,ChatGPT - Google Chrome
+1775546520.2481153,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546520.607469,Keyboard,a,ChatGPT - Google Chrome
+1775546520.8659482,Keyboard,n,ChatGPT - Google Chrome
+1775546521.1382413,Keyboard,d,ChatGPT - Google Chrome
+1775546524.1779034,Mouse,Button.left,ChatGPT - Google Chrome
+1775546530.2768023,Mouse,Button.left,Honeypot Exam Collector
+1775546531.8837247,Mouse,Button.left,ChatGPT - Google Chrome
+1775546532.7161257,Mouse,Button.left,ChatGPT - Google Chrome
+1775546533.9248369,Keyboard,Key.backspace,ChatGPT - Google Chrome
+1775546535.0669763,Mouse,Button.left,ChatGPT - Google Chrome
+1775546535.7534955,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546536.25437,Keyboard,l,ChatGPT - Google Chrome
+1775546536.4428358,Keyboard,o,ChatGPT - Google Chrome
+1775546536.90568,Keyboard,c,ChatGPT - Google Chrome
+1775546537.1343954,Keyboard,a,ChatGPT - Google Chrome
+1775546537.4848797,Keyboard,l,ChatGPT - Google Chrome
+1775546537.7566118,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546537.9553325,Keyboard,a,ChatGPT - Google Chrome
+1775546538.3179104,Keyboard,l,ChatGPT - Google Chrome
+1775546538.6167877,Keyboard,i,ChatGPT - Google Chrome
+1775546538.9294446,Keyboard,n,ChatGPT - Google Chrome
+1775546539.2687962,Keyboard,g,ChatGPT - Google Chrome
+1775546539.7099652,Keyboard,m,ChatGPT - Google Chrome
+1775546540.0703225,Keyboard,e,ChatGPT - Google Chrome
+1775546540.478119,Keyboard,n,ChatGPT - Google Chrome
+1775546540.811508,Keyboard,t,ChatGPT - Google Chrome
+1775546541.0605655,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546541.4429507,Keyboard,i,ChatGPT - Google Chrome
+1775546541.734953,Keyboard,n,ChatGPT - Google Chrome
+1775546541.9356923,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546542.1442337,Keyboard,b,ChatGPT - Google Chrome
+1775546542.5440583,Keyboard,i,ChatGPT - Google Chrome
+1775546542.7468839,Keyboard,o,ChatGPT - Google Chrome
+1775546543.5457497,Keyboard,i,ChatGPT - Google Chrome
+1775546543.9388542,Keyboard,n,ChatGPT - Google Chrome
+1775546544.4400957,Keyboard,f,ChatGPT - Google Chrome
+1775546544.6789098,Keyboard,o,ChatGPT - Google Chrome
+1775546544.8714921,Keyboard,r,ChatGPT - Google Chrome
+1775546545.119509,Keyboard,m,ChatGPT - Google Chrome
+1775546545.4622056,Keyboard,a,ChatGPT - Google Chrome
+1775546545.842283,Keyboard,t,ChatGPT - Google Chrome
+1775546546.332668,Keyboard,i,ChatGPT - Google Chrome
+1775546546.894921,Keyboard,c,ChatGPT - Google Chrome
+1775546547.224258,Keyboard,s,ChatGPT - Google Chrome
+1775546548.1545262,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546550.4379227,Mouse,Button.left,ChatGPT - Google Chrome
+1775546565.6438782,Mouse,Button.left,ChatGPT - Google Chrome
+1775546567.2030132,Keyboard,j,ChatGPT - Google Chrome
+1775546567.4140356,Keyboard,u,ChatGPT - Google Chrome
+1775546567.67293,Keyboard,s,ChatGPT - Google Chrome
+1775546567.947179,Keyboard,t,ChatGPT - Google Chrome
+1775546568.2561572,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546569.1768563,Keyboard,f,ChatGPT - Google Chrome
+1775546569.6000006,Keyboard,o,ChatGPT - Google Chrome
+1775546569.9404683,Keyboard,r,ChatGPT - Google Chrome
+1775546570.178714,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546570.7098646,Keyboard,5,ChatGPT - Google Chrome
+1775546571.0421834,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546571.3724072,Keyboard,m,ChatGPT - Google Chrome
+1775546571.6144886,Keyboard,a,ChatGPT - Google Chrome
+1775546572.1067946,Keyboard,r,ChatGPT - Google Chrome
+1775546572.7045975,Keyboard,j,ChatGPT - Google Chrome
+1775546573.678454,Keyboard,Key.backspace,ChatGPT - Google Chrome
+1775546574.1114862,Keyboard,k,ChatGPT - Google Chrome
+1775546574.309419,Keyboard,s,ChatGPT - Google Chrome
+1775546574.5310042,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546574.901952,Keyboard,q,ChatGPT - Google Chrome
+1775546575.3317862,Keyboard,u,ChatGPT - Google Chrome
+1775546575.6337602,Keyboard,e,ChatGPT - Google Chrome
+1775546575.9145641,Keyboard,s,ChatGPT - Google Chrome
+1775546576.1574395,Keyboard,t,ChatGPT - Google Chrome
+1775546576.6084445,Keyboard,i,ChatGPT - Google Chrome
+1775546576.8182783,Keyboard,o,ChatGPT - Google Chrome
+1775546577.2180178,Keyboard,n,ChatGPT - Google Chrome
+1775546578.2715786,Keyboard,Key.enter,ChatGPT - Google Chrome
+1775546584.8034172,Mouse,Button.left,ChatGPT - Google Chrome
+1775546587.95329,Keyboard,Key.ctrl_l,ChatGPT - Google Chrome
+1775546589.3641727,Keyboard,,ChatGPT - Google Chrome
+1775546590.854743,Mouse,Button.left,ChatGPT - Google Chrome
+1775546591.8090284,Mouse,Button.left,Honeypot Exam Collector
+1775546592.8065886,Keyboard,Key.ctrl_l,Honeypot Exam Collector
+1775546593.6482859,Keyboard,,Honeypot Exam Collector
+1775546595.8597074,Mouse,Button.left,Honeypot Exam Collector
+1775546603.4599261,Mouse,Button.left,Honeypot Exam Collector
+1775546606.8482587,Mouse,Button.left,ChatGPT - Google Chrome
+1775546607.5728343,Keyboard,d,ChatGPT - Google Chrome
+1775546607.804069,Keyboard,e,ChatGPT - Google Chrome
+1775546608.224542,Keyboard,f,ChatGPT - Google Chrome
+1775546608.7362025,Keyboard,i,ChatGPT - Google Chrome
+1775546609.0957713,Keyboard,n,ChatGPT - Google Chrome
+1775546609.418096,Keyboard,i,ChatGPT - Google Chrome
+1775546609.828766,Keyboard,t,ChatGPT - Google Chrome
+1775546610.0578618,Keyboard,i,ChatGPT - Google Chrome
+1775546610.2497182,Keyboard,o,ChatGPT - Google Chrome
+1775546610.6689725,Keyboard,n,ChatGPT - Google Chrome
+1775546610.9106457,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546611.1710124,Keyboard,f,ChatGPT - Google Chrome
+1775546611.4700737,Keyboard,o,ChatGPT - Google Chrome
+1775546611.7921088,Keyboard,r,ChatGPT - Google Chrome
+1775546613.394205,Mouse,Button.left,ChatGPT - Google Chrome
+1775546619.559137,Mouse,Button.left,Honeypot Exam Collector
+1775546620.5392003,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546621.1513336,Keyboard,a,ChatGPT - Google Chrome
+1775546621.5313773,Keyboard,r,ChatGPT - Google Chrome
+1775546621.6724114,Keyboard,r,ChatGPT - Google Chrome
+1775546621.8145654,Keyboard,a,ChatGPT - Google Chrome
+1775546622.064192,Keyboard,y,ChatGPT - Google Chrome
+1775546622.7085893,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546623.4022262,Keyboard,",",ChatGPT - Google Chrome
+1775546624.153068,Keyboard,s,ChatGPT - Google Chrome
+1775546624.4548876,Keyboard,t,ChatGPT - Google Chrome
+1775546624.5929163,Keyboard,a,ChatGPT - Google Chrome
+1775546624.9454017,Keyboard,c,ChatGPT - Google Chrome
+1775546625.6956818,Keyboard,k,ChatGPT - Google Chrome
+1775546625.9373207,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546626.1282723,Keyboard,a,ChatGPT - Google Chrome
+1775546626.3298748,Keyboard,n,ChatGPT - Google Chrome
+1775546626.7191677,Keyboard,d,ChatGPT - Google Chrome
+1775546627.0313716,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546627.721092,Keyboard,l,ChatGPT - Google Chrome
+1775546628.0433578,Keyboard,i,ChatGPT - Google Chrome
+1775546628.3552294,Keyboard,n,ChatGPT - Google Chrome
+1775546628.6245885,Keyboard,k,ChatGPT - Google Chrome
+1775546629.4384487,Keyboard,e,ChatGPT - Google Chrome
+1775546629.717002,Keyboard,d,ChatGPT - Google Chrome
+1775546630.1069665,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546630.6993554,Keyboard,l,ChatGPT - Google Chrome
+1775546631.0216432,Keyboard,i,ChatGPT - Google Chrome
+1775546631.572601,Keyboard,s,ChatGPT - Google Chrome
+1775546631.9322708,Keyboard,t,ChatGPT - Google Chrome
+1775546633.2102964,Mouse,Button.left,ChatGPT - Google Chrome
+1775546634.25199,Mouse,Button.left,Honeypot Exam Collector
+1775546635.4954267,Mouse,Button.left,ChatGPT - Google Chrome
+1775546638.0861886,Mouse,Button.left,ChatGPT - Google Chrome
+1775546641.0762682,Mouse,Button.left,ChatGPT - Google Chrome
+1775546642.7736437,Mouse,Button.left,ChatGPT - Google Chrome
+1775546644.2475984,Mouse,Button.left,ChatGPT - Google Chrome
+1775546646.2768383,Keyboard,Key.ctrl_l,ChatGPT - Google Chrome
+1775546646.8376727,Keyboard,,ChatGPT - Google Chrome
+1775546648.3053944,Mouse,Button.left,ChatGPT - Google Chrome
+1775546649.2868862,Mouse,Button.left,Honeypot Exam Collector
+1775546649.712818,Keyboard,Key.ctrl_l,Honeypot Exam Collector
+1775546650.6342974,Keyboard,,Honeypot Exam Collector
+1775546651.742723,Mouse,Button.left,Honeypot Exam Collector
+1775546659.6176786,Mouse,Button.left,Honeypot Exam Collector
+1775546661.2690926,Keyboard,b,ChatGPT - Google Chrome
+1775546662.1715658,Keyboard,a,ChatGPT - Google Chrome
+1775546662.4120092,Keyboard,s,ChatGPT - Google Chrome
+1775546662.6844084,Keyboard,i,ChatGPT - Google Chrome
+1775546663.0838604,Keyboard,c,ChatGPT - Google Chrome
+1775546663.2946835,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546663.8154259,Keyboard,o,ChatGPT - Google Chrome
+1775546664.0042312,Keyboard,p,ChatGPT - Google Chrome
+1775546664.5061212,Keyboard,e,ChatGPT - Google Chrome
+1775546664.7174997,Keyboard,r,ChatGPT - Google Chrome
+1775546664.9869373,Keyboard,a,ChatGPT - Google Chrome
+1775546665.23824,Keyboard,t,ChatGPT - Google Chrome
+1775546665.6682265,Keyboard,i,ChatGPT - Google Chrome
+1775546665.8577008,Keyboard,o,ChatGPT - Google Chrome
+1775546666.1298268,Keyboard,n,ChatGPT - Google Chrome
+1775546666.3207164,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546666.5506244,Keyboard,f,ChatGPT - Google Chrome
+1775546667.0110567,Keyboard,o,ChatGPT - Google Chrome
+1775546667.2223535,Keyboard,r,ChatGPT - Google Chrome
+1775546667.4111044,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546667.652844,Keyboard,s,ChatGPT - Google Chrome
+1775546667.844117,Keyboard,t,ChatGPT - Google Chrome
+1775546667.9817765,Keyboard,a,ChatGPT - Google Chrome
+1775546668.2139683,Keyboard,v,ChatGPT - Google Chrome
+1775546669.196123,Keyboard,Key.backspace,ChatGPT - Google Chrome
+1775546669.5061107,Keyboard,c,ChatGPT - Google Chrome
+1775546669.986054,Keyboard,k,ChatGPT - Google Chrome
+1775546672.691179,Mouse,Button.left,ChatGPT - Google Chrome
+1775546676.6829956,Mouse,Button.left,ChatGPT - Google Chrome
+1775546678.8609362,Keyboard,Key.ctrl_l,ChatGPT - Google Chrome
+1775546679.43214,Keyboard,,ChatGPT - Google Chrome
+1775546681.5603018,Mouse,Button.left,ChatGPT - Google Chrome
+1775546682.3945885,Mouse,Button.left,Honeypot Exam Collector
+1775546682.7359354,Keyboard,Key.ctrl_l,Honeypot Exam Collector
+1775546683.2665362,Keyboard,,Honeypot Exam Collector
+1775546684.506262,Keyboard,Key.enter,Honeypot Exam Collector
+1775546685.9400172,Mouse,Button.left,Honeypot Exam Collector
+1775546688.7496393,Mouse,Button.left,Honeypot Exam Collector
+1775546689.8968935,Mouse,Button.left,ChatGPT - Google Chrome
+1775546690.9666913,Keyboard,w,ChatGPT - Google Chrome
+1775546691.285062,Keyboard,h,ChatGPT - Google Chrome
+1775546691.4766319,Keyboard,Key.caps_lock,ChatGPT - Google Chrome
+1775546692.9191122,Keyboard,Key.caps_lock,ChatGPT - Google Chrome
+1775546693.2587402,Keyboard,a,ChatGPT - Google Chrome
+1775546693.6990194,Keyboard,t,ChatGPT - Google Chrome
+1775546693.9308212,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546694.4115725,Keyboard,i,ChatGPT - Google Chrome
+1775546694.6423285,Keyboard,s,ChatGPT - Google Chrome
+1775546694.8246882,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546695.1125784,Keyboard,m,ChatGPT - Google Chrome
+1775546695.3450298,Keyboard,u,ChatGPT - Google Chrome
+1775546695.7754881,Keyboard,l,ChatGPT - Google Chrome
+1775546696.085391,Keyboard,t,ChatGPT - Google Chrome
+1775546696.2766843,Keyboard,i,ChatGPT - Google Chrome
+1775546696.528674,Keyboard,Key.space,ChatGPT - Google Chrome
+1775546696.839235,Keyboard,t,ChatGPT - Google Chrome
+1775546697.0499973,Keyboard,a,ChatGPT - Google Chrome
+1775546697.319742,Keyboard,s,ChatGPT - Google Chrome
+1775546697.6301413,Keyboard,k,ChatGPT - Google Chrome
+1775546697.8417718,Keyboard,i,ChatGPT - Google Chrome
+1775546698.2010949,Keyboard,n,ChatGPT - Google Chrome
+1775546698.503438,Keyboard,g,ChatGPT - Google Chrome
+1775546699.19514,Keyboard,Key.enter,ChatGPT - Google Chrome
+1775546702.9581294,Mouse,Button.left,ChatGPT - Google Chrome
+1775546704.7678206,Keyboard,Key.ctrl_l,ChatGPT - Google Chrome
+1775546705.5303862,Keyboard,,ChatGPT - Google Chrome
+1775546707.688867,Mouse,Button.left,ChatGPT - Google Chrome
+1775546708.7393951,Mouse,Button.left,Honeypot Exam Collector
+1775546709.304406,Keyboard,Key.ctrl_l,Honeypot Exam Collector
+1775546709.8959985,Keyboard,,Honeypot Exam Collector
+1775546711.3757071,Mouse,Button.left,Honeypot Exam Collector

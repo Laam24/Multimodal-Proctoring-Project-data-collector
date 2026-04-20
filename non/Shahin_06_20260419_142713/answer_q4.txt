@@ -1,0 +1,2 @@
+if else : check multiple condtion 
+Switch : check one variable againts many fiixed valuse

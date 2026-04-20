@@ -1,0 +1,1 @@
+a linked list is a collection of nodes where each node pointed to the next one.

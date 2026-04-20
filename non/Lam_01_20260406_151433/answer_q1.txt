@@ -1,0 +1,1 @@
+A digital image is a image that consists of multiple pixels of different intensity and colors.

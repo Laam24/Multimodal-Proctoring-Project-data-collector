@@ -1,0 +1,1 @@
+structured data is the dataset that is in a fixed format of rows and columns. unstructured data do not have any fixed format

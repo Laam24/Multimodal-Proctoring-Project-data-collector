@@ -1,0 +1,1 @@
+A Karnaugh Map (K-map) is a visual, grid-based tool used in digital logic to simplify Boolean expressions without complex algebraic theorems. It organizes truth table values into 2, 3, or 4-variable grids, allowing users to group adjacent 1s (or 0s) to create minimal Sum of Products (SOP) or Product of Sums (POS) expressions.

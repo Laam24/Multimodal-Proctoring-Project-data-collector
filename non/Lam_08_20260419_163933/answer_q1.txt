@@ -1,0 +1,3 @@
+The difference between a class and a object is given below:
+
+A class is a conceptual design of a program where an object is the manifestation of that class.

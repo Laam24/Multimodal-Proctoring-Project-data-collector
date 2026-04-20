@@ -1,0 +1,623 @@
+Timestamp,Event_Type,Key_Button,Active_Window
+1776590423.5234272,Mouse,Button.left,Honeypot Exam Collector
+1776590427.1248343,Mouse,Button.left,Honeypot Exam Collector
+1776590429.2682774,Mouse,Button.left,Google Chrome
+1776590431.193995,Mouse,Button.left,New Tab - Google Chrome
+1776590432.5184972,Mouse,Button.left,New Tab - Google Chrome
+1776590432.9510415,Keyboard,d,New Tab - Google Chrome
+1776590433.2532673,Keyboard,i,New Tab - Google Chrome
+1776590433.5683925,Keyboard,f,New Tab - Google Chrome
+1776590433.7194142,Keyboard,f,New Tab - Google Chrome
+1776590433.7930589,Keyboard,e,New Tab - Google Chrome
+1776590433.9751215,Keyboard,r,New Tab - Google Chrome
+1776590434.1775262,Keyboard,e,New Tab - Google Chrome
+1776590434.3416111,Keyboard,n,New Tab - Google Chrome
+1776590434.6550806,Keyboard,c,New Tab - Google Chrome
+1776590434.8089268,Keyboard,e,New Tab - Google Chrome
+1776590435.0006347,Keyboard,Key.space,New Tab - Google Chrome
+1776590435.4667554,Keyboard,b,New Tab - Google Chrome
+1776590435.718686,Keyboard,e,New Tab - Google Chrome
+1776590436.0151963,Keyboard,t,New Tab - Google Chrome
+1776590436.3299484,Keyboard,w,New Tab - Google Chrome
+1776590436.752673,Keyboard,e,New Tab - Google Chrome
+1776590436.9070823,Keyboard,e,New Tab - Google Chrome
+1776590437.1394148,Keyboard,n,New Tab - Google Chrome
+1776590437.2904212,Keyboard,Key.space,New Tab - Google Chrome
+1776590437.5054216,Keyboard,c,New Tab - Google Chrome
+1776590437.7973115,Keyboard,l,New Tab - Google Chrome
+1776590437.9915967,Keyboard,a,New Tab - Google Chrome
+1776590438.1932018,Keyboard,s,New Tab - Google Chrome
+1776590438.366951,Keyboard,s,New Tab - Google Chrome
+1776590438.498478,Keyboard,Key.space,New Tab - Google Chrome
+1776590438.6693177,Keyboard,a,New Tab - Google Chrome
+1776590438.8839269,Keyboard,n,New Tab - Google Chrome
+1776590439.0749846,Keyboard,d,New Tab - Google Chrome
+1776590439.2059793,Keyboard,Key.space,New Tab - Google Chrome
+1776590439.8034306,Keyboard,o,New Tab - Google Chrome
+1776590440.139458,Keyboard,b,New Tab - Google Chrome
+1776590440.4146292,Keyboard,j,New Tab - Google Chrome
+1776590441.1531398,Keyboard,e,New Tab - Google Chrome
+1776590441.3679225,Keyboard,c,New Tab - Google Chrome
+1776590441.6190724,Keyboard,t,New Tab - Google Chrome
+1776590442.0865705,Keyboard,Key.enter,New Tab - Google Chrome
+1776590443.903398,Mouse,Button.left,difference between class and object - Google Search - Google Chrome
+1776590452.760801,Mouse,Button.left,difference between class and object - Google Search - Google Chrome
+1776590454.3036652,Keyboard,c,Honeypot Exam Collector
+1776590454.618544,Keyboard,l,Honeypot Exam Collector
+1776590454.8102295,Keyboard,a,Honeypot Exam Collector
+1776590455.0046554,Keyboard,s,Honeypot Exam Collector
+1776590455.1455534,Keyboard,s,Honeypot Exam Collector
+1776590455.3168194,Keyboard,Key.space,Honeypot Exam Collector
+1776590455.6118793,Keyboard,i,Honeypot Exam Collector
+1776590456.3313818,Keyboard,s,Honeypot Exam Collector
+1776590456.5653446,Keyboard,Key.space,Honeypot Exam Collector
+1776590456.8473473,Keyboard,a,Honeypot Exam Collector
+1776590457.052179,Keyboard,Key.space,Honeypot Exam Collector
+1776590457.3549788,Keyboard,c,Honeypot Exam Collector
+1776590457.6502743,Keyboard,o,Honeypot Exam Collector
+1776590457.9554248,Keyboard,n,Honeypot Exam Collector
+1776590458.2672505,Keyboard,c,Honeypot Exam Collector
+1776590458.552914,Keyboard,e,Honeypot Exam Collector
+1776590458.8444738,Keyboard,p,Honeypot Exam Collector
+1776590459.109227,Keyboard,t,Honeypot Exam Collector
+1776590459.300741,Keyboard,u,Honeypot Exam Collector
+1776590459.5654647,Keyboard,a,Honeypot Exam Collector
+1776590459.7675903,Keyboard,l,Honeypot Exam Collector
+1776590460.022474,Keyboard,Key.space,Honeypot Exam Collector
+1776590460.2646005,Keyboard,b,Honeypot Exam Collector
+1776590460.539268,Keyboard,l,Honeypot Exam Collector
+1776590460.9525979,Keyboard,u,Honeypot Exam Collector
+1776590461.2673,Keyboard,r,Honeypot Exam Collector
+1776590461.7345777,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590461.9893808,Keyboard,e,Honeypot Exam Collector
+1776590462.2715058,Keyboard,p,Honeypot Exam Collector
+1776590462.5465896,Keyboard,r,Honeypot Exam Collector
+1776590462.6975138,Keyboard,i,Honeypot Exam Collector
+1776590462.9492154,Keyboard,n,Honeypot Exam Collector
+1776590463.2564528,Keyboard,t,Honeypot Exam Collector
+1776590463.5110667,Keyboard,Key.enter,Honeypot Exam Collector
+1776590464.5746083,Keyboard,o,Honeypot Exam Collector
+1776590464.8867476,Keyboard,b,Honeypot Exam Collector
+1776590465.1012483,Keyboard,j,Honeypot Exam Collector
+1776590465.302786,Keyboard,e,Honeypot Exam Collector
+1776590465.5776808,Keyboard,c,Honeypot Exam Collector
+1776590465.789229,Keyboard,t,Honeypot Exam Collector
+1776590466.9966474,Keyboard,Key.space,Honeypot Exam Collector
+1776590467.3834443,Keyboard,i,Honeypot Exam Collector
+1776590467.608309,Keyboard,s,Honeypot Exam Collector
+1776590467.7790203,Keyboard,Key.space,Honeypot Exam Collector
+1776590467.9706671,Keyboard,a,Honeypot Exam Collector
+1776590469.6380184,Mouse,Button.left,Honeypot Exam Collector
+1776590474.020877,Mouse,Button.left,difference between class and object - Google Search - Google Chrome
+1776590475.2608526,Keyboard,Key.space,Honeypot Exam Collector
+1776590475.4931328,Keyboard,c,Honeypot Exam Collector
+1776590475.7274065,Keyboard,o,Honeypot Exam Collector
+1776590476.2052987,Keyboard,n,Honeypot Exam Collector
+1776590476.467826,Keyboard,c,Honeypot Exam Collector
+1776590476.7932212,Keyboard,r,Honeypot Exam Collector
+1776590476.9948015,Keyboard,e,Honeypot Exam Collector
+1776590477.1583376,Keyboard,t,Honeypot Exam Collector
+1776590477.3409545,Keyboard,e,Honeypot Exam Collector
+1776590477.5123913,Keyboard,Key.space,Honeypot Exam Collector
+1776590477.808348,Keyboard,i,Honeypot Exam Collector
+1776590478.029675,Keyboard,n,Honeypot Exam Collector
+1776590478.265273,Keyboard,s,Honeypot Exam Collector
+1776590478.508513,Keyboard,t,Honeypot Exam Collector
+1776590478.692555,Keyboard,a,Honeypot Exam Collector
+1776590478.9558194,Keyboard,n,Honeypot Exam Collector
+1776590479.4418561,Keyboard,c,Honeypot Exam Collector
+1776590479.6361036,Keyboard,e,Honeypot Exam Collector
+1776590479.8274913,Keyboard,Key.space,Honeypot Exam Collector
+1776590480.1416202,Keyboard,o,Honeypot Exam Collector
+1776590480.7697494,Keyboard,f,Honeypot Exam Collector
+1776590480.9501579,Keyboard,Key.space,Honeypot Exam Collector
+1776590481.101358,Keyboard,t,Honeypot Exam Collector
+1776590481.3459938,Keyboard,h,Honeypot Exam Collector
+1776590481.5576918,Keyboard,a,Honeypot Exam Collector
+1776590481.7822728,Keyboard,t,Honeypot Exam Collector
+1776590482.0542166,Keyboard,Key.space,Honeypot Exam Collector
+1776590482.430538,Keyboard,b,Honeypot Exam Collector
+1776590482.645064,Keyboard,l,Honeypot Exam Collector
+1776590482.9375808,Keyboard,u,Honeypot Exam Collector
+1776590483.4044962,Keyboard,e,Honeypot Exam Collector
+1776590483.7800286,Keyboard,p,Honeypot Exam Collector
+1776590484.001892,Keyboard,r,Honeypot Exam Collector
+1776590484.2059886,Keyboard,i,Honeypot Exam Collector
+1776590484.4386616,Keyboard,n,Honeypot Exam Collector
+1776590484.7843297,Keyboard,t,Honeypot Exam Collector
+1776590486.045227,Mouse,Button.left,Honeypot Exam Collector
+1776590489.1282566,Mouse,Button.left,Honeypot Exam Collector
+1776590491.299365,Mouse,Button.left,difference between class and object - Google Search - Google Chrome
+1776590492.4677703,Keyboard,w,difference between class and object - Google Search - Google Chrome
+1776590492.8038595,Keyboard,h,difference between class and object - Google Search - Google Chrome
+1776590493.3000944,Keyboard,a,difference between class and object - Google Search - Google Chrome
+1776590493.8168356,Keyboard,t,difference between class and object - Google Search - Google Chrome
+1776590494.0586426,Keyboard,Key.space,difference between class and object - Google Search - Google Chrome
+1776590494.385037,Keyboard,i,difference between class and object - Google Search - Google Chrome
+1776590494.59668,Keyboard,s,difference between class and object - Google Search - Google Chrome
+1776590494.7506137,Keyboard,Key.space,difference between class and object - Google Search - Google Chrome
+1776590494.9823434,Keyboard,k,difference between class and object - Google Search - Google Chrome
+1776590495.203461,Keyboard,Key.space,difference between class and object - Google Search - Google Chrome
+1776590495.3885202,Keyboard,m,difference between class and object - Google Search - Google Chrome
+1776590495.5499322,Keyboard,a,difference between class and object - Google Search - Google Chrome
+1776590495.7949688,Keyboard,p,difference between class and object - Google Search - Google Chrome
+1776590496.1173308,Keyboard,Key.enter,difference between class and object - Google Search - Google Chrome
+1776590511.8394449,Mouse,Button.left,what is k map - Google Search - Google Chrome
+1776590513.2778392,Keyboard,k,Honeypot Exam Collector
+1776590513.5028381,Keyboard,Key.space,Honeypot Exam Collector
+1776590513.6841433,Keyboard,m,Honeypot Exam Collector
+1776590513.9385605,Keyboard,a,Honeypot Exam Collector
+1776590514.0997267,Keyboard,p,Honeypot Exam Collector
+1776590514.331498,Keyboard,Key.space,Honeypot Exam Collector
+1776590514.5875638,Keyboard,i,Honeypot Exam Collector
+1776590514.808768,Keyboard,s,Honeypot Exam Collector
+1776590515.0134287,Keyboard,Key.space,Honeypot Exam Collector
+1776590515.214643,Keyboard,a,Honeypot Exam Collector
+1776590515.4793398,Keyboard,Key.space,Honeypot Exam Collector
+1776590515.762855,Keyboard,v,Honeypot Exam Collector
+1776590516.0279188,Keyboard,i,Honeypot Exam Collector
+1776590516.228779,Keyboard,s,Honeypot Exam Collector
+1776590516.443525,Keyboard,u,Honeypot Exam Collector
+1776590516.74769,Keyboard,a,Honeypot Exam Collector
+1776590516.9622834,Keyboard,l,Honeypot Exam Collector
+1776590517.2845445,Keyboard,Key.space,Honeypot Exam Collector
+1776590518.5355182,Keyboard,",",Honeypot Exam Collector
+1776590520.2899263,Mouse,Button.left,Honeypot Exam Collector
+1776590521.3429778,Mouse,Button.left,what is k map - Google Search - Google Chrome
+1776590522.916042,Keyboard,g,Honeypot Exam Collector
+1776590523.1380134,Keyboard,r,Honeypot Exam Collector
+1776590523.3599687,Keyboard,i,Honeypot Exam Collector
+1776590523.6349685,Keyboard,d,Honeypot Exam Collector
+1776590523.785986,Keyboard,Key.space,Honeypot Exam Collector
+1776590524.010495,Keyboard,b,Honeypot Exam Collector
+1776590524.181791,Keyboard,a,Honeypot Exam Collector
+1776590524.4274554,Keyboard,s,Honeypot Exam Collector
+1776590524.8192215,Keyboard,e,Honeypot Exam Collector
+1776590525.2064743,Keyboard,d,Honeypot Exam Collector
+1776590525.4505482,Keyboard,Key.space,Honeypot Exam Collector
+1776590525.967527,Keyboard,t,Honeypot Exam Collector
+1776590526.2693307,Keyboard,o,Honeypot Exam Collector
+1776590526.4204414,Keyboard,o,Honeypot Exam Collector
+1776590526.6250749,Keyboard,l,Honeypot Exam Collector
+1776590528.3158212,Mouse,Button.left,Honeypot Exam Collector
+1776590530.068182,Mouse,Button.left,what is k map - Google Search - Google Chrome
+1776590531.2775688,Keyboard,Key.space,Honeypot Exam Collector
+1776590531.725016,Keyboard,u,Honeypot Exam Collector
+1776590531.906614,Keyboard,s,Honeypot Exam Collector
+1776590532.121021,Keyboard,e,Honeypot Exam Collector
+1776590532.3323941,Keyboard,d,Honeypot Exam Collector
+1776590532.46312,Keyboard,Key.space,Honeypot Exam Collector
+1776590532.6982098,Keyboard,t,Honeypot Exam Collector
+1776590532.8908432,Keyboard,o,Honeypot Exam Collector
+1776590533.1348174,Keyboard,Key.space,Honeypot Exam Collector
+1776590533.3260682,Keyboard,s,Honeypot Exam Collector
+1776590533.520644,Keyboard,i,Honeypot Exam Collector
+1776590533.7229996,Keyboard,m,Honeypot Exam Collector
+1776590534.4715242,Keyboard,p,Honeypot Exam Collector
+1776590534.6756468,Keyboard,l,Honeypot Exam Collector
+1776590534.9690733,Keyboard,i,Honeypot Exam Collector
+1776590535.4242196,Keyboard,f,Honeypot Exam Collector
+1776590535.6486359,Keyboard,y,Honeypot Exam Collector
+1776590536.7344625,Keyboard,Key.space,Honeypot Exam Collector
+1776590538.2211804,Mouse,Button.left,Honeypot Exam Collector
+1776590541.3656754,Mouse,Button.left,what is k map - Google Search - Google Chrome
+1776590542.6750097,Keyboard,b,Honeypot Exam Collector
+1776590543.0084524,Keyboard,o,Honeypot Exam Collector
+1776590543.1427236,Keyboard,o,Honeypot Exam Collector
+1776590543.3340542,Keyboard,l,Honeypot Exam Collector
+1776590543.5255294,Keyboard,e,Honeypot Exam Collector
+1776590543.811179,Keyboard,a,Honeypot Exam Collector
+1776590544.1660185,Keyboard,n,Honeypot Exam Collector
+1776590544.4679124,Keyboard,Key.space,Honeypot Exam Collector
+1776590545.0879743,Keyboard,a,Honeypot Exam Collector
+1776590545.3600998,Keyboard,l,Honeypot Exam Collector
+1776590545.6973217,Keyboard,g,Honeypot Exam Collector
+1776590545.8780825,Keyboard,e,Honeypot Exam Collector
+1776590546.0824914,Keyboard,b,Honeypot Exam Collector
+1776590546.3947809,Keyboard,r,Honeypot Exam Collector
+1776590546.555536,Keyboard,a,Honeypot Exam Collector
+1776590546.7297342,Keyboard,Key.space,Honeypot Exam Collector
+1776590546.8727117,Keyboard,e,Honeypot Exam Collector
+1776590547.1678846,Keyboard,x,Honeypot Exam Collector
+1776590547.4397204,Keyboard,p,Honeypot Exam Collector
+1776590547.6139584,Keyboard,r,Honeypot Exam Collector
+1776590547.8063345,Keyboard,e,Honeypot Exam Collector
+1776590548.0480444,Keyboard,s,Honeypot Exam Collector
+1776590548.2122998,Keyboard,s,Honeypot Exam Collector
+1776590548.453866,Keyboard,i,Honeypot Exam Collector
+1776590548.6080525,Keyboard,o,Honeypot Exam Collector
+1776590548.8508756,Keyboard,n,Honeypot Exam Collector
+1776590550.4010103,Mouse,Button.left,Honeypot Exam Collector
+1776590553.8774672,Mouse,Button.left,Honeypot Exam Collector
+1776590556.2312,Mouse,Button.left,what is k map - Google Search - Google Chrome
+1776590557.757518,Keyboard,d,what is k map - Google Search - Google Chrome
+1776590558.018619,Keyboard,i,what is k map - Google Search - Google Chrome
+1776590558.2834873,Keyboard,f,what is k map - Google Search - Google Chrome
+1776590558.4253643,Keyboard,f,what is k map - Google Search - Google Chrome
+1776590558.5348957,Keyboard,e,what is k map - Google Search - Google Chrome
+1776590558.7092519,Keyboard,r,what is k map - Google Search - Google Chrome
+1776590558.8906028,Keyboard,e,what is k map - Google Search - Google Chrome
+1776590559.0315194,Keyboard,n,what is k map - Google Search - Google Chrome
+1776590559.3066366,Keyboard,c,what is k map - Google Search - Google Chrome
+1776590559.49793,Keyboard,e,what is k map - Google Search - Google Chrome
+1776590559.6589816,Keyboard,Key.space,what is k map - Google Search - Google Chrome
+1776590559.8936865,Keyboard,b,what is k map - Google Search - Google Chrome
+1776590560.4406674,Keyboard,e,what is k map - Google Search - Google Chrome
+1776590560.6852434,Keyboard,t,what is k map - Google Search - Google Chrome
+1776590560.9171355,Keyboard,w,what is k map - Google Search - Google Chrome
+1776590561.182121,Keyboard,e,what is k map - Google Search - Google Chrome
+1776590561.342794,Keyboard,e,what is k map - Google Search - Google Chrome
+1776590561.8504725,Keyboard,n,what is k map - Google Search - Google Chrome
+1776590562.0516925,Keyboard,Key.space,what is k map - Google Search - Google Chrome
+1776590562.3471713,Keyboard,s,what is k map - Google Search - Google Chrome
+1776590562.6288464,Keyboard,t,what is k map - Google Search - Google Chrome
+1776590562.8236115,Keyboard,r,what is k map - Google Search - Google Chrome
+1776590563.1063695,Keyboard,u,what is k map - Google Search - Google Chrome
+1776590563.4015179,Keyboard,c,what is k map - Google Search - Google Chrome
+1776590563.8582287,Keyboard,t,what is k map - Google Search - Google Chrome
+1776590564.0596557,Keyboard,u,what is k map - Google Search - Google Chrome
+1776590564.2430184,Keyboard,r,what is k map - Google Search - Google Chrome
+1776590564.4349747,Keyboard,e,what is k map - Google Search - Google Chrome
+1776590564.525097,Keyboard,Key.space,what is k map - Google Search - Google Chrome
+1776590564.8212729,Keyboard,a,what is k map - Google Search - Google Chrome
+1776590565.0532649,Keyboard,n,what is k map - Google Search - Google Chrome
+1776590565.2979803,Keyboard,d,what is k map - Google Search - Google Chrome
+1776590565.398324,Keyboard,Key.space,what is k map - Google Search - Google Chrome
+1776590565.7642968,Keyboard,u,what is k map - Google Search - Google Chrome
+1776590566.006474,Keyboard,n,what is k map - Google Search - Google Chrome
+1776590566.2513876,Keyboard,s,what is k map - Google Search - Google Chrome
+1776590566.4930675,Keyboard,t,what is k map - Google Search - Google Chrome
+1776590566.6540594,Keyboard,r,what is k map - Google Search - Google Chrome
+1776590566.8086777,Keyboard,u,what is k map - Google Search - Google Chrome
+1776590567.131488,Keyboard,c,what is k map - Google Search - Google Chrome
+1776590567.4571345,Keyboard,t,what is k map - Google Search - Google Chrome
+1776590567.65846,Keyboard,u,what is k map - Google Search - Google Chrome
+1776590567.8027725,Keyboard,r,what is k map - Google Search - Google Chrome
+1776590567.9845273,Keyboard,e,what is k map - Google Search - Google Chrome
+1776590568.085647,Keyboard,Key.space,what is k map - Google Search - Google Chrome
+1776590568.410476,Keyboard,d,what is k map - Google Search - Google Chrome
+1776590568.6022394,Keyboard,a,what is k map - Google Search - Google Chrome
+1776590568.6758645,Keyboard,t,what is k map - Google Search - Google Chrome
+1776590568.9682171,Keyboard,a,what is k map - Google Search - Google Chrome
+1776590569.3733912,Keyboard,Key.enter,what is k map - Google Search - Google Chrome
+1776590571.5450413,Mouse,Button.left,difference between structure and unstructure data - Google Search - Google Chrome
+1776590574.78922,Mouse,Button.left,difference between structured and unstructured data - Google Search - Google Chrome
+1776590598.4696257,Mouse,Button.left,difference between structured and unstructured data - Google Search - Google Chrome
+1776590599.7230494,Keyboard,s,Honeypot Exam Collector
+1776590599.9979835,Keyboard,t,Honeypot Exam Collector
+1776590600.575132,Keyboard,r,Honeypot Exam Collector
+1776590600.7054305,Keyboard,u,Honeypot Exam Collector
+1776590601.0408192,Keyboard,c,Honeypot Exam Collector
+1776590601.3237731,Keyboard,t,Honeypot Exam Collector
+1776590601.540713,Keyboard,u,Honeypot Exam Collector
+1776590601.6810653,Keyboard,r,Honeypot Exam Collector
+1776590601.892893,Keyboard,e,Honeypot Exam Collector
+1776590602.0266745,Keyboard,e,Honeypot Exam Collector
+1776590602.503776,Keyboard,Key.space,Honeypot Exam Collector
+1776590603.7417455,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590607.5628998,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590609.1943562,Keyboard,d,Honeypot Exam Collector
+1776590609.455719,Keyboard,Key.space,Honeypot Exam Collector
+1776590609.6706972,Keyboard,d,Honeypot Exam Collector
+1776590609.9122045,Keyboard,a,Honeypot Exam Collector
+1776590610.1267316,Keyboard,t,Honeypot Exam Collector
+1776590610.2994876,Keyboard,a,Honeypot Exam Collector
+1776590610.553939,Keyboard,Key.space,Honeypot Exam Collector
+1776590611.2115536,Keyboard,i,Honeypot Exam Collector
+1776590611.4631298,Keyboard,s,Honeypot Exam Collector
+1776590613.3833845,Mouse,Button.left,Honeypot Exam Collector
+1776590615.60117,Mouse,Button.left,difference between structured and unstructured data - Google Search - Google Chrome
+1776590616.7524226,Keyboard,Key.space,Honeypot Exam Collector
+1776590616.994169,Keyboard,s,Honeypot Exam Collector
+1776590617.2290323,Keyboard,t,Honeypot Exam Collector
+1776590617.676178,Keyboard,o,Honeypot Exam Collector
+1776590617.887829,Keyboard,r,Honeypot Exam Collector
+1776590618.4053326,Keyboard,e,Honeypot Exam Collector
+1776590618.6812086,Keyboard,d,Honeypot Exam Collector
+1776590618.9027662,Keyboard,Key.space,Honeypot Exam Collector
+1776590619.289431,Keyboard,i,Honeypot Exam Collector
+1776590619.6241808,Keyboard,n,Honeypot Exam Collector
+1776590619.8254051,Keyboard,Key.space,Honeypot Exam Collector
+1776590621.512888,Mouse,Button.left,Honeypot Exam Collector
+1776590624.2796218,Mouse,Button.left,difference between structured and unstructured data - Google Search - Google Chrome
+1776590625.53734,Keyboard,r,Honeypot Exam Collector
+1776590625.7116127,Keyboard,e,Honeypot Exam Collector
+1776590626.0140097,Keyboard,t,Honeypot Exam Collector
+1776590626.1983633,Keyboard,a,Honeypot Exam Collector
+1776590626.4396968,Keyboard,i,Honeypot Exam Collector
+1776590626.6009183,Keyboard,o,Honeypot Exam Collector
+1776590626.825497,Keyboard,n,Honeypot Exam Collector
+1776590627.0359738,Keyboard,a,Honeypot Exam Collector
+1776590627.2916636,Keyboard,l,Honeypot Exam Collector
+1776590627.5241964,Keyboard,Key.space,Honeypot Exam Collector
+1776590627.8709362,Keyboard,d,Honeypot Exam Collector
+1776590628.0622237,Keyboard,a,Honeypot Exam Collector
+1776590628.287028,Keyboard,t,Honeypot Exam Collector
+1776590628.5293496,Keyboard,a,Honeypot Exam Collector
+1776590629.0260448,Keyboard,b,Honeypot Exam Collector
+1776590629.1807122,Keyboard,a,Honeypot Exam Collector
+1776590629.3714137,Keyboard,s,Honeypot Exam Collector
+1776590629.5932233,Keyboard,e,Honeypot Exam Collector
+1776590629.8382084,Keyboard,d,Honeypot Exam Collector
+1776590630.0993536,Keyboard,Key.space,Honeypot Exam Collector
+1776590630.6167088,Keyboard,m,Honeypot Exam Collector
+1776590630.8810732,Keyboard,a,Honeypot Exam Collector
+1776590631.1634214,Keyboard,n,Honeypot Exam Collector
+1776590631.803502,Keyboard,a,Honeypot Exam Collector
+1776590632.03496,Keyboard,g,Honeypot Exam Collector
+1776590632.2796986,Keyboard,e,Honeypot Exam Collector
+1776590632.5822332,Keyboard,m,Honeypot Exam Collector
+1776590632.7272303,Keyboard,e,Honeypot Exam Collector
+1776590632.9188037,Keyboard,n,Honeypot Exam Collector
+1776590633.1196463,Keyboard,t,Honeypot Exam Collector
+1776590633.2539167,Keyboard,Key.space,Honeypot Exam Collector
+1776590633.6280656,Keyboard,s,Honeypot Exam Collector
+1776590633.902847,Keyboard,y,Honeypot Exam Collector
+1776590634.0633385,Keyboard,s,Honeypot Exam Collector
+1776590634.4190555,Keyboard,t,Honeypot Exam Collector
+1776590634.5902495,Keyboard,e,Honeypot Exam Collector
+1776590634.8350184,Keyboard,m,Honeypot Exam Collector
+1776590635.6537552,Keyboard,Key.enter,Honeypot Exam Collector
+1776590637.403481,Keyboard,u,Honeypot Exam Collector
+1776590637.625797,Keyboard,n,Honeypot Exam Collector
+1776590637.9007215,Keyboard,s,Honeypot Exam Collector
+1776590638.3180854,Keyboard,t,Honeypot Exam Collector
+1776590638.5801141,Keyboard,r,Honeypot Exam Collector
+1776590638.7546973,Keyboard,u,Honeypot Exam Collector
+1776590639.0669358,Keyboard,c,Honeypot Exam Collector
+1776590639.4627845,Keyboard,t,Honeypot Exam Collector
+1776590639.6843724,Keyboard,u,Honeypot Exam Collector
+1776590639.7880673,Keyboard,r,Honeypot Exam Collector
+1776590640.0092547,Keyboard,e,Honeypot Exam Collector
+1776590640.3551,Keyboard,Key.space,Honeypot Exam Collector
+1776590640.760982,Keyboard,d,Honeypot Exam Collector
+1776590640.9419777,Keyboard,a,Honeypot Exam Collector
+1776590641.1129894,Keyboard,t,Honeypot Exam Collector
+1776590641.2340267,Keyboard,a,Honeypot Exam Collector
+1776590641.8343236,Keyboard,Key.space,Honeypot Exam Collector
+1776590643.2502174,Mouse,Button.left,Honeypot Exam Collector
+1776590647.1537678,Mouse,Button.left,difference between structured and unstructured data - Google Search - Google Chrome
+1776590648.5850644,Keyboard,r,Honeypot Exam Collector
+1776590648.7759652,Keyboard,e,Honeypot Exam Collector
+1776590649.071058,Keyboard,q,Honeypot Exam Collector
+1776590649.387237,Keyboard,u,Honeypot Exam Collector
+1776590649.699451,Keyboard,i,Honeypot Exam Collector
+1776590650.0450678,Keyboard,r,Honeypot Exam Collector
+1776590650.2263405,Keyboard,e,Honeypot Exam Collector
+1776590650.561706,Keyboard,d,Honeypot Exam Collector
+1776590650.7529798,Keyboard,Key.space,Honeypot Exam Collector
+1776590650.9393172,Keyboard,n,Honeypot Exam Collector
+1776590651.1800559,Keyboard,o,Honeypot Exam Collector
+1776590651.485007,Keyboard,Key.space,Honeypot Exam Collector
+1776590652.1226695,Keyboard,Key.shift,Honeypot Exam Collector
+1776590652.3380973,Keyboard,S,Honeypot Exam Collector
+1776590652.7107377,Keyboard,Q,Honeypot Exam Collector
+1776590653.1267316,Keyboard,L,Honeypot Exam Collector
+1776590653.412125,Keyboard,Key.space,Honeypot Exam Collector
+1776590653.7653043,Keyboard,d,Honeypot Exam Collector
+1776590653.970259,Keyboard,a,Honeypot Exam Collector
+1776590654.1308508,Keyboard,t,Honeypot Exam Collector
+1776590654.2321138,Keyboard,a,Honeypot Exam Collector
+1776590654.4766164,Keyboard,b,Honeypot Exam Collector
+1776590654.5672865,Keyboard,a,Honeypot Exam Collector
+1776590654.7886755,Keyboard,s,Honeypot Exam Collector
+1776590654.9831758,Keyboard,e,Honeypot Exam Collector
+1776590656.469769,Mouse,Button.left,Honeypot Exam Collector
+1776590667.9409359,Mouse,Button.left,difference between structured and unstructured data - Google Search - Google Chrome
+1776590669.465233,Keyboard,Key.enter,Honeypot Exam Collector
+1776590669.8375666,Keyboard,s,Honeypot Exam Collector
+1776590670.083477,Keyboard,t,Honeypot Exam Collector
+1776590670.30495,Keyboard,r,Honeypot Exam Collector
+1776590670.469332,Keyboard,u,Honeypot Exam Collector
+1776590670.9658904,Keyboard,c,Honeypot Exam Collector
+1776590671.4291143,Keyboard,t,Honeypot Exam Collector
+1776590671.5938804,Keyboard,u,Honeypot Exam Collector
+1776590671.775494,Keyboard,r,Honeypot Exam Collector
+1776590671.95962,Keyboard,e,Honeypot Exam Collector
+1776590672.2416804,Keyboard,Key.space,Honeypot Exam Collector
+1776590672.7295997,Keyboard,d,Honeypot Exam Collector
+1776590672.9306703,Keyboard,a,Honeypot Exam Collector
+1776590673.024348,Keyboard,t,Honeypot Exam Collector
+1776590673.3970833,Keyboard,a,Honeypot Exam Collector
+1776590673.802876,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.311007,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.3517601,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.3921714,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.432377,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.4755332,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.5160198,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.556163,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.59647,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.6365793,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.676909,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.7174346,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590674.991709,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590675.2940521,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590677.0865674,Mouse,Button.left,Honeypot Exam Collector
+1776590681.0045683,Mouse,Button.left,Honeypot Exam Collector
+1776590683.2682383,Mouse,Button.left,difference between structured and unstructured data - Google Search - Google Chrome
+1776590684.9873848,Keyboard,5,difference between structured and unstructured data - Google Search - Google Chrome
+1776590685.648025,Keyboard,v,difference between structured and unstructured data - Google Search - Google Chrome
+1776590685.950177,Keyboard,Key.space,difference between structured and unstructured data - Google Search - Google Chrome
+1776590686.547782,Keyboard,o,difference between structured and unstructured data - Google Search - Google Chrome
+1776590686.8527448,Keyboard,f,difference between structured and unstructured data - Google Search - Google Chrome
+1776590686.9937186,Keyboard,Key.space,difference between structured and unstructured data - Google Search - Google Chrome
+1776590687.22834,Keyboard,b,difference between structured and unstructured data - Google Search - Google Chrome
+1776590687.4797947,Keyboard,i,difference between structured and unstructured data - Google Search - Google Chrome
+1776590687.7966561,Keyboard,f,difference between structured and unstructured data - Google Search - Google Chrome
+1776590688.2425687,Keyboard,Key.backspace,difference between structured and unstructured data - Google Search - Google Chrome
+1776590688.7489102,Keyboard,g,difference between structured and unstructured data - Google Search - Google Chrome
+1776590688.9614325,Keyboard,Key.space,difference between structured and unstructured data - Google Search - Google Chrome
+1776590689.216515,Keyboard,d,difference between structured and unstructured data - Google Search - Google Chrome
+1776590689.3775008,Keyboard,a,difference between structured and unstructured data - Google Search - Google Chrome
+1776590689.5390923,Keyboard,t,difference between structured and unstructured data - Google Search - Google Chrome
+1776590689.7028165,Keyboard,a,difference between structured and unstructured data - Google Search - Google Chrome
+1776590690.065094,Keyboard,Key.enter,difference between structured and unstructured data - Google Search - Google Chrome
+1776590694.351595,Mouse,Button.left,5v of big data - Google Search - Google Chrome
+1776590695.6593077,Keyboard,v,Honeypot Exam Collector
+1776590696.175282,Keyboard,o,Honeypot Exam Collector
+1776590696.356881,Keyboard,l,Honeypot Exam Collector
+1776590696.6318429,Keyboard,u,Honeypot Exam Collector
+1776590696.8529475,Keyboard,m,Honeypot Exam Collector
+1776590697.1383557,Keyboard,e,Honeypot Exam Collector
+1776590697.5022693,Keyboard,",",Honeypot Exam Collector
+1776590698.0393813,Keyboard,v,Honeypot Exam Collector
+1776590698.2854836,Keyboard,e,Honeypot Exam Collector
+1776590698.4864168,Keyboard,l,Honeypot Exam Collector
+1776590698.7012687,Keyboard,o,Honeypot Exam Collector
+1776590698.913788,Keyboard,c,Honeypot Exam Collector
+1776590699.1685264,Keyboard,i,Honeypot Exam Collector
+1776590699.3799186,Keyboard,t,Honeypot Exam Collector
+1776590699.5716295,Keyboard,y,Honeypot Exam Collector
+1776590700.0377953,Keyboard,",",Honeypot Exam Collector
+1776590700.7700257,Keyboard,v,Honeypot Exam Collector
+1776590700.971347,Keyboard,a,Honeypot Exam Collector
+1776590701.2862778,Keyboard,r,Honeypot Exam Collector
+1776590701.5883274,Keyboard,i,Honeypot Exam Collector
+1776590701.85337,Keyboard,e,Honeypot Exam Collector
+1776590702.0758877,Keyboard,t,Honeypot Exam Collector
+1776590702.2400136,Keyboard,y,Honeypot Exam Collector
+1776590702.9386783,Keyboard,",",Honeypot Exam Collector
+1776590704.7540605,Mouse,Button.left,Honeypot Exam Collector
+1776590707.176076,Mouse,Button.left,5v of big data - Google Search - Google Chrome
+1776590708.953424,Keyboard,v,Honeypot Exam Collector
+1776590709.174816,Keyboard,e,Honeypot Exam Collector
+1776590709.4007936,Keyboard,r,Honeypot Exam Collector
+1776590709.6927645,Keyboard,a,Honeypot Exam Collector
+1776590709.898385,Keyboard,c,Honeypot Exam Collector
+1776590710.2100472,Keyboard,i,Honeypot Exam Collector
+1776590710.4447439,Keyboard,t,Honeypot Exam Collector
+1776590710.6261532,Keyboard,y,Honeypot Exam Collector
+1776590710.9613533,Keyboard,Key.space,Honeypot Exam Collector
+1776590711.1630347,Keyboard,a,Honeypot Exam Collector
+1776590711.5182881,Keyboard,n,Honeypot Exam Collector
+1776590711.6997325,Keyboard,d,Honeypot Exam Collector
+1776590711.8435702,Keyboard,Key.space,Honeypot Exam Collector
+1776590712.0864558,Keyboard,v,Honeypot Exam Collector
+1776590712.2507062,Keyboard,a,Honeypot Exam Collector
+1776590712.4720397,Keyboard,l,Honeypot Exam Collector
+1776590712.767404,Keyboard,u,Honeypot Exam Collector
+1776590713.0999496,Keyboard,e,Honeypot Exam Collector
+1776590714.3938243,Mouse,Button.left,Honeypot Exam Collector
+1776590716.0931404,Mouse,Button.left,Honeypot Exam Collector
+1776590718.0262148,Mouse,Button.left,5v of big data - Google Search - Google Chrome
+1776590719.2489798,Keyboard,w,5v of big data - Google Search - Google Chrome
+1776590719.5644805,Keyboard,h,5v of big data - Google Search - Google Chrome
+1776590719.7554843,Keyboard,a,5v of big data - Google Search - Google Chrome
+1776590719.9098244,Keyboard,t,5v of big data - Google Search - Google Chrome
+1776590720.2025495,Keyboard,Key.space,5v of big data - Google Search - Google Chrome
+1776590720.537441,Keyboard,i,5v of big data - Google Search - Google Chrome
+1776590720.7590153,Keyboard,s,5v of big data - Google Search - Google Chrome
+1776590720.9230943,Keyboard,Key.space,5v of big data - Google Search - Google Chrome
+1776590721.2151175,Keyboard,d,5v of big data - Google Search - Google Chrome
+1776590721.4091878,Keyboard,a,5v of big data - Google Search - Google Chrome
+1776590721.5805495,Keyboard,t,5v of big data - Google Search - Google Chrome
+1776590721.7123675,Keyboard,a,5v of big data - Google Search - Google Chrome
+1776590721.966982,Keyboard,Key.space,5v of big data - Google Search - Google Chrome
+1776590723.0444953,Mouse,Button.left,5v of big data - Google Search - Google Chrome
+1776590732.6346166,Mouse,Button.left,what is data mining - Google Search - Google Chrome
+1776590734.2045074,Keyboard,d,Honeypot Exam Collector
+1776590734.3355277,Keyboard,a,Honeypot Exam Collector
+1776590734.489452,Keyboard,t,Honeypot Exam Collector
+1776590734.6403117,Keyboard,a,Honeypot Exam Collector
+1776590734.8819416,Keyboard,Key.space,Honeypot Exam Collector
+1776590735.2682624,Keyboard,m,Honeypot Exam Collector
+1776590735.4830067,Keyboard,i,Honeypot Exam Collector
+1776590735.6838324,Keyboard,n,Honeypot Exam Collector
+1776590735.8955865,Keyboard,i,Honeypot Exam Collector
+1776590736.1401217,Keyboard,n,Honeypot Exam Collector
+1776590736.4357898,Keyboard,g,Honeypot Exam Collector
+1776590736.6364274,Keyboard,Key.space,Honeypot Exam Collector
+1776590737.0121887,Keyboard,i,Honeypot Exam Collector
+1776590737.244218,Keyboard,s,Honeypot Exam Collector
+1776590737.4182134,Keyboard,Key.space,Honeypot Exam Collector
+1776590737.699865,Keyboard,t,Honeypot Exam Collector
+1776590737.8814318,Keyboard,h,Honeypot Exam Collector
+1776590738.0668726,Keyboard,e,Honeypot Exam Collector
+1776590738.1771882,Keyboard,Key.space,Honeypot Exam Collector
+1776590738.5633774,Keyboard,p,Honeypot Exam Collector
+1776590738.7652285,Keyboard,r,Honeypot Exam Collector
+1776590738.9287958,Keyboard,o,Honeypot Exam Collector
+1776590739.2513027,Keyboard,c,Honeypot Exam Collector
+1776590739.4027708,Keyboard,e,Honeypot Exam Collector
+1776590739.6270385,Keyboard,s,Honeypot Exam Collector
+1776590739.7581766,Keyboard,s,Honeypot Exam Collector
+1776590739.9186974,Keyboard,Key.space,Honeypot Exam Collector
+1776590740.1957555,Keyboard,o,Honeypot Exam Collector
+1776590740.5410075,Keyboard,f,Honeypot Exam Collector
+1776590741.129164,Keyboard,Key.space,Honeypot Exam Collector
+1776590743.1799486,Mouse,Button.left,Honeypot Exam Collector
+1776590745.4900103,Mouse,Button.left,what is data mining - Google Search - Google Chrome
+1776590746.6410398,Keyboard,a,Honeypot Exam Collector
+1776590746.831726,Keyboard,n,Honeypot Exam Collector
+1776590747.0062904,Keyboard,a,Honeypot Exam Collector
+1776590747.1974027,Keyboard,l,Honeypot Exam Collector
+1776590747.572892,Keyboard,y,Honeypot Exam Collector
+1776590747.8343756,Keyboard,s,Honeypot Exam Collector
+1776590748.383631,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590748.8104482,Keyboard,z,Honeypot Exam Collector
+1776590749.0151231,Keyboard,i,Honeypot Exam Collector
+1776590749.2576525,Keyboard,n,Honeypot Exam Collector
+1776590749.5235193,Keyboard,g,Honeypot Exam Collector
+1776590749.7146497,Keyboard,Key.space,Honeypot Exam Collector
+1776590749.956951,Keyboard,l,Honeypot Exam Collector
+1776590750.1104536,Keyboard,a,Honeypot Exam Collector
+1776590750.3828692,Keyboard,r,Honeypot Exam Collector
+1776590750.5872889,Keyboard,g,Honeypot Exam Collector
+1776590750.768272,Keyboard,e,Honeypot Exam Collector
+1776590751.205428,Keyboard,",",Honeypot Exam Collector
+1776590753.0788388,Mouse,Button.left,Honeypot Exam Collector
+1776590754.7797208,Mouse,Button.left,what is data mining - Google Search - Google Chrome
+1776590756.4159632,Keyboard,c,Honeypot Exam Collector
+1776590756.7317183,Keyboard,o,Honeypot Exam Collector
+1776590756.952679,Keyboard,m,Honeypot Exam Collector
+1776590757.2382288,Keyboard,p,Honeypot Exam Collector
+1776590757.4089785,Keyboard,l,Honeypot Exam Collector
+1776590757.6241002,Keyboard,e,Honeypot Exam Collector
+1776590758.0265098,Keyboard,x,Honeypot Exam Collector
+1776590758.2007134,Keyboard,Key.space,Honeypot Exam Collector
+1776590758.5886436,Keyboard,d,Honeypot Exam Collector
+1776590758.8200996,Keyboard,a,Honeypot Exam Collector
+1776590758.9813051,Keyboard,t,Honeypot Exam Collector
+1776590759.1551652,Keyboard,a,Honeypot Exam Collector
+1776590759.3988318,Keyboard,s,Honeypot Exam Collector
+1776590759.6027267,Keyboard,e,Honeypot Exam Collector
+1776590759.8342676,Keyboard,t,Honeypot Exam Collector
+1776590760.0788004,Keyboard,Key.space,Honeypot Exam Collector
+1776590760.411036,Keyboard,o,Honeypot Exam Collector
+1776590760.6560237,Keyboard,f,Honeypot Exam Collector
+1776590761.132135,Keyboard,Key.space,Honeypot Exam Collector
+1776590762.7214987,Mouse,Button.left,Honeypot Exam Collector
+1776590765.4688993,Mouse,Button.left,what is data mining - Google Search - Google Chrome
+1776590766.8544116,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590766.995606,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590767.3610134,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590767.7670443,Keyboard,t,Honeypot Exam Collector
+1776590767.93808,Keyboard,o,Honeypot Exam Collector
+1776590768.2432463,Keyboard,Key.space,Honeypot Exam Collector
+1776590768.5467658,Keyboard,s,Honeypot Exam Collector
+1776590769.147579,Keyboard,Key.backspace,Honeypot Exam Collector
+1776590769.4709764,Keyboard,d,Honeypot Exam Collector
+1776590769.6955698,Keyboard,i,Honeypot Exam Collector
+1776590770.3241508,Keyboard,s,Honeypot Exam Collector
+1776590770.5459578,Keyboard,c,Honeypot Exam Collector
+1776590770.8607478,Keyboard,o,Honeypot Exam Collector
+1776590771.1328158,Keyboard,v,Honeypot Exam Collector
+1776590771.3170645,Keyboard,e,Honeypot Exam Collector
+1776590771.529021,Keyboard,r,Honeypot Exam Collector
+1776590771.6623297,Keyboard,Key.space,Honeypot Exam Collector
+1776590772.2607424,Keyboard,h,Honeypot Exam Collector
+1776590772.46245,Keyboard,i,Honeypot Exam Collector
+1776590772.613203,Keyboard,d,Honeypot Exam Collector
+1776590772.777365,Keyboard,d,Honeypot Exam Collector
+1776590772.939499,Keyboard,e,Honeypot Exam Collector
+1776590773.0793736,Keyboard,n,Honeypot Exam Collector
+1776590773.2535582,Keyboard,Key.space,Honeypot Exam Collector
+1776590773.5254788,Keyboard,p,Honeypot Exam Collector
+1776590773.7309718,Keyboard,a,Honeypot Exam Collector
+1776590773.9628632,Keyboard,t,Honeypot Exam Collector
+1776590774.0950372,Keyboard,t,Honeypot Exam Collector
+1776590774.2083492,Keyboard,e,Honeypot Exam Collector
+1776590774.450033,Keyboard,r,Honeypot Exam Collector
+1776590774.621578,Keyboard,n,Honeypot Exam Collector
+1776590775.9004529,Mouse,Button.left,Honeypot Exam Collector

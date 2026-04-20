@@ -1,0 +1,2 @@
+stack; used for function calls ,yndo op,exppress evaluatipons
+queue; used  for task scheduling,printer queue,bfs

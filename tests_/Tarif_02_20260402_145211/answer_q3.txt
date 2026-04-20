@@ -1,0 +1,1 @@
+Knapsack algorithm is a algorithm which fits in variables within a set amount of capacity. Two examples of implementation for Knapsack algorithm is 0/1 and the fractional knapsack algorithm

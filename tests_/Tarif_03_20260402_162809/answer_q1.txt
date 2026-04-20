@@ -1,0 +1,1 @@
+true positive is a something  which is a true and correct and the false positive is the value is true but the machine inteprets as negative

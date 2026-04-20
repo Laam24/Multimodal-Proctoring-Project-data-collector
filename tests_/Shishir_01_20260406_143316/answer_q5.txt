@@ -1,0 +1,1 @@
+A for loop is a programming control flow statement used to execute a block of code repeatedly for a specific number of times or to iterate over a sequence (like a list, array, or string). It is best used when the number of iterations is known before entering the loop, ensuring efficient code repetition.

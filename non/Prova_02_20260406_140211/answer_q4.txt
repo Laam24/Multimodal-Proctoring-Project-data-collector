@@ -1,0 +1,4 @@
+A Database Management System (DBMS) uses the Entity-Relationship (ER) model to structure data.
+ Entities (real-world objects, e.g., "Student") are defined by attributes (properties, e.g., "ID"), 
+ relationships (connections, e.g., "Enroll") establish how these entities interact, creating a structured, visualized blueprint.
+Attribute -Properties or characteristics that describe an entity.

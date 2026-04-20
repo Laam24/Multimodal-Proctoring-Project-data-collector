@@ -1,0 +1,1 @@
+loop is repetition of coded functions without rewriting them
