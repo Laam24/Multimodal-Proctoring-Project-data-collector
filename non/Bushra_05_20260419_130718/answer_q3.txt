@@ -1,1 +1,0 @@
-it checks conditions and excute code depending on wherther it is true

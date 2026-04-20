@@ -1,6 +1,0 @@
-1. Image accquisition 
-2. inhance 
-3. segmantation
-4.Representation 
-5.Rrcognition
-6.interprrtion

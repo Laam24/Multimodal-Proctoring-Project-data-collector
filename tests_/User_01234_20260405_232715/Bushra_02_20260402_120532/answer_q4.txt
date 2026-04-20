@@ -1,2 +1,0 @@
-variable: single value
-array: multipul value

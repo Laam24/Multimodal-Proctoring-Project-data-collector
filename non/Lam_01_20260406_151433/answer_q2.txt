@@ -1,1 +1,0 @@
-Inheritence is the part of oop where it denotes that an object or function is usually part of another object or function. it is a core concept of oop where it concieves the child object of a parent object

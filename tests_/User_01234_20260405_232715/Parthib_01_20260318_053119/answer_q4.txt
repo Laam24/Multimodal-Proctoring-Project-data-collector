@@ -1,1 +1,0 @@
-a constructor initializes value of variables from the class in the OOP language

@@ -1,3 +1,0 @@
-Global alignment aligns sequences across their entire length (end-to-end), suitable for similar, equal-length sequences using the Needleman-Wunsch algorithm.
-
-Local alignment finds the highest-scoring matching subregions within longer, divergent sequences, often using the Smith-Waterman algorithm.

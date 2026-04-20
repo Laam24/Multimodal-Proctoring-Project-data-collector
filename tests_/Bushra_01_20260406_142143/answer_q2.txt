@@ -1,1 +1,0 @@
-Inheritence : Getting features from another class.

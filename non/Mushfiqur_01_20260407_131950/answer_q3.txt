@@ -1,3 +1,0 @@
-Array: A data structure that stores elements of the same type in contiguous memory locations, accessed by index.
-Stack: A linear data structure that follows LIFO (Last In, First Out), where insertion and deletion happen at the top.
-Linked List: A data structure consisting of nodes, where each node contains data and a reference (link) to the next node.

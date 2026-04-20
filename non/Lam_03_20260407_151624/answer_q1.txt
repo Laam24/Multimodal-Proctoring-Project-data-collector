@@ -1,1 +1,0 @@
-BLAST is a process that rapidly compares nucleotides to databases in order to identify homologous regions to inter functional or evolutionary relationships.

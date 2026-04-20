@@ -1,5 +1,0 @@
-1.Volume
-2.Variety
-3,Veracity
-4.Velocity
-5.Value

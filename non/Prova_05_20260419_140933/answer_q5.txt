@@ -1,1 +1,0 @@
-loop is a structure the repeat a sequence of instruction

@@ -1,2 +1,0 @@
-three types of cache memory:
-L1, L2 and L3

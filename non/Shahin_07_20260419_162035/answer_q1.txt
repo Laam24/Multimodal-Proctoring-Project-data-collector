@@ -1,1 +1,0 @@
-a class is blueprint or template for creating object and a object is a real instance of class

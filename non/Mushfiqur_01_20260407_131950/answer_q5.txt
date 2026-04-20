@@ -1,5 +1,0 @@
-Multitasking is the ability of a computer system or operating system to execute multiple tasks (processes) at the same time.
-It allows programs to share CPU time by switching between them rapidly.
-This creates the effect that tasks are running simultaneously.
-Multitasking improves system efficiency and performance.
-Example: listening to music while browsing the internet.

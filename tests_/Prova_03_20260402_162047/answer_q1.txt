@@ -1,1 +1,0 @@
-True Positives (TP) are cases where the model correctly predicts the positive class (e.g., correctly identifying a disease). False Positives (FP) are cases where the model incorrectly predicts the positive class when the actual class is negative (a false alarm or Type error)

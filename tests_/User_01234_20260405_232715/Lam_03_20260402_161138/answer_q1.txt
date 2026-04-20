@@ -1,2 +1,0 @@
-True Positive (TP): The test says "yes," and it is actually "yes." (e.g., A sick patient tests positive for a disease).
-False Negative (FN): The test says "no," but it is actually "yes." (e.g., A sick patient tests negative for a disease, which is a missed diagnosis).

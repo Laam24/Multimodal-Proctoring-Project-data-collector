@@ -1,2 +1,0 @@
-structure: organized in row and coulun
-unstructure: no fixed formate

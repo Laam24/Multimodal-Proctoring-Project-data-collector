@@ -1,1 +1,0 @@
-to set the initial values for objects attributes allocate resources and to ensure the object is in a valid state

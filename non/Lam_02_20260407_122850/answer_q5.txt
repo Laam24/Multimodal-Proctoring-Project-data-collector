@@ -1,1 +1,0 @@
-ram is the temporary memory used to hold the storage of a running process. usually a process when running stores its temporary data inside the ram to run properly. rom is the main storage of a computer designed to hold permanent data. ram is usually much less size than rom

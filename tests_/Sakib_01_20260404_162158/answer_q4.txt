@@ -1,4 +1,0 @@
-dbms: software that is used to create,store, manage, and control access to databases.
-entity: a real world object or thing that can be identified and stored in a database.
-relation: a table in a database that consists of rows and columns
-attribute: a property or characterstic of an entity usually represnting as a column in a table

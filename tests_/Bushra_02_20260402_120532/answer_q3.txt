@@ -1,3 +1,0 @@
-is used to selestive item .
-0/1 : take item or not
-fractional : can take partial item

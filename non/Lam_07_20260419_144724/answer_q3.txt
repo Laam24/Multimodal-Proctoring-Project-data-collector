@@ -1,1 +1,0 @@
-Conditional statements in a programming language includes if, else and else-if statements. Conditional statements usually determines a condition and if the operation follows the condition then a output is formed and if not then the output is changed. the condition is determined by "if" and if it is not followed then the output from "else" is carried out

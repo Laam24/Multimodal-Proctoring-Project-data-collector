@@ -1,1 +1,0 @@
-inheritence means to have one function inside another

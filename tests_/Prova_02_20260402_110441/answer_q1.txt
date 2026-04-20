@@ -1,3 +1,0 @@
-printf it takes a normaliza string 
-
-scanf exxicution for wait for user input

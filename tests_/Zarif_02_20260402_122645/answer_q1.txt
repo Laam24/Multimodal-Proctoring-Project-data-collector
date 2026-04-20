@@ -1,2 +1,0 @@
-printf function show the output of the code
-scanf function take inputs of the code

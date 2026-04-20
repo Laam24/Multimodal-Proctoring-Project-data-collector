@@ -1,4 +1,0 @@
-DBMS: database software
-Entity: A real world object.
-Relation: a table in a database
-Attribute: a culmun in a table

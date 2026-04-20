@@ -1,1 +1,0 @@
-Map reduce is a big data processing model in Hadoop that works in two step, MAP and REDUSE

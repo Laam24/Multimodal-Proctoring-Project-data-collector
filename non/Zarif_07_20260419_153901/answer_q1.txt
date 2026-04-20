@@ -1,1 +1,0 @@
-In Object-Oriented Programming (OOP), a class is a logical template, while an object is a physical manifestation of that template

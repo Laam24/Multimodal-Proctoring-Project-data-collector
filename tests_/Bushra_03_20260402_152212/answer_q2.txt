@@ -1,3 +1,0 @@
-1: Time :quick worst O(n2), Merge (always O(n log n))
-2: space: Quick (in place ), merge (extra space)
-3. method: quick ()pivot) , merge(divide and merge)

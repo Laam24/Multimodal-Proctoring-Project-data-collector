@@ -1,7 +1,0 @@
-Basic Operations of a Stack:
-
-Push: Insert an element onto the top of the stack.
-Pop: Remove the top element from the stack.
-Peek (Top): View the top element without removing it.
-isEmpty: Check if the stack is empty.
-isFull: Check if the stack is full (in case of fixed size stack).

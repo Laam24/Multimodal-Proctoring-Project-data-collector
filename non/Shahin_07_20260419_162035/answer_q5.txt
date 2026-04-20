@@ -1,1 +1,0 @@
-The processing of discovering useful pattern , trends, and information from large dataset using techniques like statistics and ML

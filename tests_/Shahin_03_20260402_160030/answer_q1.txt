@@ -1,2 +1,0 @@
-TP : predicted positive and actual positive 
-FN : predicted negative but actually positive

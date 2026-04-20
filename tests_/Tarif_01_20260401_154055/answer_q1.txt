@@ -1,1 +1,0 @@
-the peimary difference is a list is mutable and a tuple are immutable

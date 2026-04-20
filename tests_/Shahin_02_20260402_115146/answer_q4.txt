@@ -1,2 +1,0 @@
-variable stores a single value.
-Array stores multiple values of same types.

@@ -1,3 +1,0 @@
-the 5 v's of big data are:
-
-volume, velocity, veracity, value and variety

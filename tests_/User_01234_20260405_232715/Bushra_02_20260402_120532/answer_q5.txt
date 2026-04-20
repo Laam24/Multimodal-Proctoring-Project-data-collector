@@ -1,5 +1,0 @@
-image acquisition
-preprocessing
-segmentation
-prepresentation
-recognition

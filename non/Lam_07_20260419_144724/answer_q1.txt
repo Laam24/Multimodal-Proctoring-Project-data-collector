@@ -1,1 +1,0 @@
-A linked-list is a data structure used to store one or more data variables. it is different to an array as here the data variables are connected with each other in a form of a list.

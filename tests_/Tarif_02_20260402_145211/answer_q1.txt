@@ -1,1 +1,0 @@
-the printf function gives out output for  formatted data in a code and scanf takes in the takes in the input from the formatted data in a compiler

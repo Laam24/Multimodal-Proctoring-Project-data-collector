@@ -1,1 +1,0 @@
-foreign key  is a column for a table that provides link between data in two tables acting as a cross reference by pointing to the primary key in another table

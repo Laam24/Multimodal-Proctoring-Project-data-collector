@@ -1,3 +1,0 @@
-The primary difference between structured and unstructured data is the format and organization of the information. 
-Structured data is highly organized and follows a rigid, predefined format (schema-on-write), typically resembling rows and columns in a spreadsheet or a relational database.
-Unstructured data lacks a predefined format and is stored in its raw, native form (schema-on-read), making it more complex but richer in context.

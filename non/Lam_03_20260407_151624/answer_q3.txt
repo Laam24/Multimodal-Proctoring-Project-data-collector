@@ -1,5 +1,0 @@
-Array: An array is a sequence of variable data all stored under a single variable. In short array is a sequence of multiple variables.
-
-Stack: Stack is a data structure able to store multiple data. Stack follows LIFO or Last in First out process to store/push and output/pop data.
-
-Linked List: Linked list is a similar data structure to that of an array. in link list the data points are connected end to end.

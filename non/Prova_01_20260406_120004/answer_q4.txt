@@ -1,4 +1,0 @@
-A Database Management System (DBMS) organizes data 
- Entities (real-world objects),
- Attributes (properties defining entities), 
-Relationships (connections between entities).

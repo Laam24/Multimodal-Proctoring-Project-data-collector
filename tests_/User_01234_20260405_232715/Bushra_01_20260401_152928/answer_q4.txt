@@ -1,1 +1,0 @@
-to prepare the object for use right after creation

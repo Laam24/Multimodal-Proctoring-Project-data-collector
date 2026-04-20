@@ -1,1 +1,0 @@
-inheritence is one class child / superclass, othe class parents/ subclass

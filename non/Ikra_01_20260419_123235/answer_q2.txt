@@ -1,3 +1,0 @@
-1.order of operation
-2.insertion and deletion
-3.operation used

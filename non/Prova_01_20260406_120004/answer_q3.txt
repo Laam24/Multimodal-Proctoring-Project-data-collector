@@ -1,2 +1,0 @@
-first in first out- first item is added, first one removed
-last in first out- flast item is added , first one removed

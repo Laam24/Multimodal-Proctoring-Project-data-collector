@@ -1,1 +1,0 @@
-A loop is a structure that repeats a sequence of instructions or actions until a specific condition is met, commonly used in programming to automate repetitive tasks. It simplifies code by allowing a block of code to run multiple times, such as counting, iterating through data, or maintaining a continuous process.

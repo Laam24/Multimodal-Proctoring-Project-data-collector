@@ -1,6 +1,0 @@
-the foreign key in a relational database is a column in one table that references the primary key in another table.  purpose:
-1. establishing relationships
-2. preventing invalid data
-3. maintaining consistency.
-4. reducing data redundancy
-5. optimizing queries

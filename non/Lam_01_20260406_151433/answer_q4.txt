@@ -1,4 +1,0 @@
-dbms: a database management system mainly allows the datasets of a database to be accessed sorted and processed. 
-entity: an entity is the component of a database. each individual component is an entity.
-attribute: in a database, attributes are the descriptive properties or characteristics that define a relation (table)
-relation: the connection between two or more entity is known as a relation

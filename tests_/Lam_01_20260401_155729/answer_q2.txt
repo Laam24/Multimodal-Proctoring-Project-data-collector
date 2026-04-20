@@ -1,1 +1,0 @@
-The Big O complexity of a binary search algorithm on a sorted array is O(log n)

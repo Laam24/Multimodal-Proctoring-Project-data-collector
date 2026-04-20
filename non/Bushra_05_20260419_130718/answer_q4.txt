@@ -1,1 +1,0 @@
-if- else: for flexible conditions and switch: for fixed multpul for choice

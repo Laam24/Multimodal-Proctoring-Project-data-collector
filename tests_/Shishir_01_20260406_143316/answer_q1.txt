@@ -1,1 +1,0 @@
-A digital image is a representation of a two-dimensional image as a finite set of digital values, called picture elements or pixels. It is a binary, numeric representation (usually stored as a matrix) of visual data—such as brightness or color—sampled at specific spatial locations, allowing it to be stored, processed, and displayed by computers.

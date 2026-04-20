@@ -1,1 +1,0 @@
-the keys stages of Digital image processing is Image Acquisition,image enchancement, image restoration  morphological processing, Segmentation, representation and description, Object recognition, Colour processing and Colour and image compression

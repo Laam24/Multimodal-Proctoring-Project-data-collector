@@ -1,2 +1,0 @@
-strurture :  organized in row and coloumn 
-unstructred : No fixed format .

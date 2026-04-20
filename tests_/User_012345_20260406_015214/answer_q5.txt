@@ -1,1 +1,0 @@
-for loop is a loop that uses a condition and an end point defined at the start

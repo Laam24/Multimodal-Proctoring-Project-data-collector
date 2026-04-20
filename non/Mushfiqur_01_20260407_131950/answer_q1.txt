@@ -1,5 +1,0 @@
-BLAST is a bioinformatics tool used to compare DNA, RNA, or protein sequences.
-It finds regions of similarity between a query sequence and database sequences.
-BLAST works by matching short sequence fragments and extending them.
-It provides results like score, identity, and E-value to measure similarity.
-It is widely used via National Center for Biotechnology Information for sequence analysis.

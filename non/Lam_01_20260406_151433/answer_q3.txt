@@ -1,1 +1,0 @@
-fifo is first in first out. its a feature of data structure mainly queue. where the data or variable which is declared first executed first. whereas lifo is last in first out. here the data which is input last is output first. a common example of this is stack. it is a important part of data structures

@@ -1,4 +1,0 @@
-if else- boolean expression
-switch statement-expression for quality
-if else evaluation-O(n)
-switch statement-O(1)

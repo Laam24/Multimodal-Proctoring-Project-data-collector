@@ -1,3 +1,0 @@
-1.Create a relationship between two tables 
-2. Maintain referetial integrity 
-3. Prevent inconsistenet

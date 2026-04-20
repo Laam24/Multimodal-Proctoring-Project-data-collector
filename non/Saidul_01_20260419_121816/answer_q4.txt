@@ -1,1 +1,0 @@
-if else is used for complex condtions, swirch is used for checking one variable against many constants

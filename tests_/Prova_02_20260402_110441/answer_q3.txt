@@ -1,3 +1,0 @@
-The knapsack problem is an optimization challenge where you select items with varying values and weights to maximize total value without exceeding a specific weight capacity
-exampole 
-0/1 Knapsack Problem:

@@ -1,2 +1,0 @@
-stack : follow LIFO, operation push , pop
-queue: follow FIFO , enque

@@ -1,2 +1,0 @@
-forenign key : reference
-purpose :  data integrity

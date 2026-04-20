@@ -1,1 +1,0 @@
-Multi tasking is a process or form of operation that allows the computer to complete multiple tasks simultaenously by rapidly switching between them, thus giving the impression of parallel computing.

@@ -1,1 +1,0 @@
-list are mutable and tuple are immultable

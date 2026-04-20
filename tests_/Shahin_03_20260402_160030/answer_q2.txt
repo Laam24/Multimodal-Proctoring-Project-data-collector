@@ -1,2 +1,0 @@
-quick sort: in place , partitions array, unstable
-merge sort : needs extra space , splits array, stable

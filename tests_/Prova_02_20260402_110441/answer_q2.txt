@@ -1,2 +1,0 @@
-an unsupervised machine leaning the automatically groups similar data point
-unstructured data apply on clustering

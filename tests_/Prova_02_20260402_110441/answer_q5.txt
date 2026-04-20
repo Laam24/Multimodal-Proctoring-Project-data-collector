@@ -1,5 +1,0 @@
-Image Acquisition: The essential first step, involving capturing and digitizing the image.
-Image Enhancement: Manipulating an image to improve its visual appeal or highlight features for a specific purpose (e.g., contrast adjustment).
-Image Restoration: An objective process focusing on removing noise or repairing degradation to recover the original image.
-Segmentation: Partitioning an image into distinct parts or objects to isolate areas of interest.
-Object Recognition: Assigning labels to recognized objects based on descriptors.

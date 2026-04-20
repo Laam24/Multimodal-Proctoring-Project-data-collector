@@ -1,1 +1,0 @@
-a linked list is a way of storing a collection of data where each item is connected to the next one in a chain

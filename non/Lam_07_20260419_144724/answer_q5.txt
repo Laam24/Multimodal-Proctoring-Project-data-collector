@@ -1,1 +1,0 @@
-a loop is a operation in any programming language. usually a loop is run by determining a condition and until that condition is satisfied, the loop keeps running a certain operation over and over again. there are three types of loops: for loop, while loop and do-while loop.

@@ -1,1 +1,0 @@
-fifo is first in first out and lifo is last in first out

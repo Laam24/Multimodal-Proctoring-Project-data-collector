@@ -1,7 +1,0 @@
-The fundamental differences between a Stack and a Queue center on how data is added, removed, and accessed:
-
-Ordering Principle: A stack follows the Last In, First Out (LIFO) principle, where the most recently added item is the first one removed. A queue follows the First In, First Out (FIFO) principle, meaning the item that has been in the structure the longest is processed first
-.
-Operational Mechanism: Stacks use a single end, known as the top, for both insertion (push) and deletion (pop). In contrast, queues use two distinct ends: a rear (or tail) for adding elements (enqueue) and a front (or head) for removing them (dequeue).
-
-Common Use Cases: Stacks are primarily used for tasks requiring backtracking, such as managing function calls (the call stack) or implementing "undo" features in software. Queues are ideal for orderly processing, such as printer job management, CPU task scheduling, or handling customer service lines.

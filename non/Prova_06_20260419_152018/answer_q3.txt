@@ -1,2 +1,0 @@
-structured data is stored in retaional databased management system
-unstructure data required no SQL database

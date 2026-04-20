@@ -1,1 +1,0 @@
-it means that a new class can take on the properties of an existing class
