@@ -26,7 +26,6 @@ Thumbs.db
 
 # Task files (if you don't want to upload the large .task files)
 *.task
-*.pth
 *.pkl
 *.json
 
