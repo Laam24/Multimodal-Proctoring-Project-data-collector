@@ -101,7 +101,7 @@ criterion = nn.CrossEntropyLoss(weight=torch.FloatTensor(class_weights).to(devic
 optimizer = optim.Adam(model.parameters(), lr=0.0005)
 
 print(f"\n🚀 Starting Multimodal AI Training on {device}...")
-for epoch in range(10):
+for epoch in range(25):
     model.train()
     total_loss = 0
     for batch_x, batch_y in train_loader:
@@ -124,7 +124,7 @@ for epoch in range(10):
             correct += (preds == by).sum().item()
     
     acc = (correct / len(test_data)) * 100
-    print(f"Epoch {epoch+1}/10 | Loss: {total_loss/len(train_loader):.4f} | Validation Acc: {acc:.2f}%")
+    print(f"Epoch {epoch+1}/25 | Loss: {total_loss/len(train_loader):.4f} | Validation Acc: {acc:.2f}%")
 
 torch.save(model.state_dict(), "multimodal_behavioral_engine.pth")
 print("\n✅ Multimodal Engine Saved as 'multimodal_behavioral_engine.pth'")
